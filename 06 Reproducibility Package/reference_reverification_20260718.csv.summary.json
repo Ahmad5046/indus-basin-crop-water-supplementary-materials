@@ -1,0 +1,12 @@
+{
+  "reference_rows": 68,
+  "doi_rows": 62,
+  "resolver_success_rows": 54,
+  "crossref_metadata_success_rows": 60,
+  "crossref_low_title_similarity_rows": 1,
+  "crossref_low_title_similarity_ids": [
+    "F019"
+  ],
+  "network_error_rows": 16,
+  "interpretation": "Crossref absence is not failure for DataCite or authoritative institutional records; DOI resolution and prior row-level verification remain separate evidence."
+}

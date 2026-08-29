@@ -1,0 +1,36 @@
+{
+  "status": "PASS",
+  "asset": "projects/ee-muhammandahmad158609/assets/indus_vwf_2023/official_district_crop_statistics_2022_23_gaul2024",
+  "source_csv": "E:\\mdpi\\indus_green_blue_water_vwf_20260709\\data\\raw\\user_supplied\\crop_statistics\\crop_yield_statistics_filled_GAUL2024_user_resolved.csv",
+  "expected_rows": 430,
+  "actual_features": 430,
+  "crop_counts": [
+    {
+      "crop_code": 1,
+      "crop_name": "Wheat",
+      "size": 122
+    },
+    {
+      "crop_code": 2,
+      "crop_name": "Rice",
+      "size": 82
+    },
+    {
+      "crop_code": 3,
+      "crop_name": "Cotton",
+      "size": 62
+    },
+    {
+      "crop_code": 4,
+      "crop_name": "Sugarcane",
+      "size": 72
+    },
+    {
+      "crop_code": 5,
+      "crop_name": "Maize",
+      "size": 92
+    }
+  ],
+  "official_zero_yield_rows": 5,
+  "imputed_rows": 0
+}

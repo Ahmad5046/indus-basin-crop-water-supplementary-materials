@@ -1,0 +1,35 @@
+SUPPLEMENTARY FIGURE CAPTIONS
+
+Figure S1. Full ranking of blue virtual water footprint for all 116 study-area district records; non-computable records are retained explicitly.
+
+Figure S2. Mapped 2023 wheat distribution within the Pakistan portion of the Indus drainage-basin analysis boundary.
+
+Figure S3. Mapped 2023 rice distribution within the Pakistan portion of the Indus drainage-basin analysis boundary.
+
+Figure S4. Mapped 2023 cotton distribution within the Pakistan portion of the Indus drainage-basin analysis boundary.
+
+Figure S5. Mapped 2023 sugarcane distribution within the Pakistan portion of the Indus drainage-basin analysis boundary.
+
+Figure S6. Mapped 2023 maize distribution, combining the spring and autumn crop cycles used in the analysis.
+
+Figure S7. Remote-sensing crop-season area compared with matched official harvested-area statistics for the five target crops.
+
+Figure S8. Province-level comparison of rainfall-attributed green and residual-blue consumptive-water volumes.
+
+Figure S9. Fixed-2023-crop-extent evapotranspiration context for 2018-2023; the series does not represent historical crop-area change.
+
+Figure S10. Fixed-2023-crop-extent rainfall context for 2018-2023; the series is a short hydroclimatic diagnostic rather than a climatology.
+
+Figure S11. Fixed-2023-crop-extent residual-blue dependency context for 2018-2023.
+
+Figure S12. Sensitivity of district hotspot counts to alternative upper- and lower-quantile screening thresholds.
+
+Figure S13. Structural range in crop total virtual water footprint across the evaluated hydroclimatic product-chain endpoints.
+
+Figure S14. Relationship between matched crop yield and crop-season consumptive-water use for computable records.
+
+Figure S15. Relationship between matched crop yield and residual-blue virtual water footprint for computable records.
+
+Figure S16. Counts of district records assigned to the exploratory hotspot-priority categories.
+
+Figure S17. Crop contributions to total virtual-water volume within the mapped 2023 crop-season extent.

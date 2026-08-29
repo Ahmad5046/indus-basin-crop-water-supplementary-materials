@@ -1,0 +1,11 @@
+{
+  "created": "2026-07-18",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "python": "3.12.13 (main, Mar  3 2026, 15:01:35) [MSC v.1944 64 bit (AMD64)]",
+  "word": "Microsoft Word 16.0 COM",
+  "analysis_crs": "EPSG:32642",
+  "classification_seed_reported_run": 20230709,
+  "block_split_seed": 20230709,
+  "structural_sensitivity_seed": null,
+  "structural_sensitivity_method": "direct two-endpoint comparison"
+}

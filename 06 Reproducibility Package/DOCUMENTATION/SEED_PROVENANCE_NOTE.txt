@@ -1,0 +1,13 @@
+SEED PROVENANCE NOTE
+
+Authoritative reported-output evidence
+- DATA/CLASSIFICATION/classification_accuracy_2023.json records rf_seed = 20230709 for both Rabi and Kharif.
+- DATA/CLASSIFICATION/adb_crop_samples_2023_qc.json and CODE/prepare_adb_ground_truth.py record random_seed = 20230709 for the deterministic 0.05-degree block split.
+
+Later-code discrepancy
+- The current project copy of run_complete_gee_crop_classification.py contains RF_SEED = 20260709. It was edited after the archived metrics were generated and is retained as run_complete_gee_crop_classification_LATER_CODE_COPY.py for provenance.
+- run_complete_gee_crop_classification_REPORTED_RUN.py restores RF_SEED = 20230709 and is the reproduction copy corresponding to the archived classification metrics.
+- Modular JavaScript templates are retained unchanged and may contain 20260709. They are workflow templates, not the authoritative provenance record for the reported classification metrics.
+
+Structural sensitivity
+- The revised structural sensitivity analysis uses direct WaPOR-CHIRPS and MODIS-ERA5-Land endpoints. It has no random seed and does not produce probability intervals.

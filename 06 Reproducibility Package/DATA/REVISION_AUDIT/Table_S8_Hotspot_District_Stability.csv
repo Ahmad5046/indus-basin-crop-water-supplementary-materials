@@ -1,0 +1,185 @@
+scope,gaul1_name,gaul2_name,mapped_area_ha,threshold_tests,priority_count,minimum_score,maximum_score,priority_stability
+all computable districts,Khyber Pakhtunkhwa,Buner,64588.58836568083,4,4,2,2,priority under all thresholds
+all computable districts,Islamabad,Islamabad,32749.152494859634,4,4,2,2,priority under all thresholds
+all computable districts,Khyber Pakhtunkhwa,Khyber,15703.533642596183,4,4,2,2,priority under all thresholds
+all computable districts,Khyber Pakhtunkhwa,Orakzai,14550.229745195487,4,4,2,2,priority under all thresholds
+all computable districts,Khyber Pakhtunkhwa,Abbottabad,14006.931643909304,4,4,2,2,priority under all thresholds
+all computable districts,Khyber Pakhtunkhwa,South Waziristan,11463.254204147266,4,4,2,2,priority under all thresholds
+all computable districts,Khyber Pakhtunkhwa,Karak,10357.46935456214,4,4,2,2,priority under all thresholds
+all computable districts,Khyber Pakhtunkhwa,Batagram,6423.435239485636,4,4,2,2,priority under all thresholds
+all computable districts,Khyber Pakhtunkhwa,Shangla,5773.211509207329,4,4,2,2,priority under all thresholds
+all computable districts,Khyber Pakhtunkhwa,Tor Ghar,1761.8686940848827,4,4,2,2,priority under all thresholds
+all computable districts,Balochistan,Pishin,154.1266137308642,4,4,2,2,priority under all thresholds
+all computable districts,Punjab,Rawalpindi,246277.81877328403,4,3,0,2,threshold-sensitive priority
+all computable districts,Khyber Pakhtunkhwa,Haripur,66371.2074386095,4,3,0,2,threshold-sensitive priority
+all computable districts,Khyber Pakhtunkhwa,Bajaur,59996.11986474839,4,3,0,2,threshold-sensitive priority
+all computable districts,Khyber Pakhtunkhwa,Lower Dir,52252.9558734484,4,3,0,2,threshold-sensitive priority
+all computable districts,Khyber Pakhtunkhwa,Mansehra,43831.32694160743,4,3,0,2,threshold-sensitive priority
+all computable districts,Khyber Pakhtunkhwa,Swat,43208.11303721073,4,3,0,2,threshold-sensitive priority
+all computable districts,Khyber Pakhtunkhwa,Kurram,29968.70654863821,4,3,0,2,threshold-sensitive priority
+all computable districts,Khyber Pakhtunkhwa,Hangu,24868.961533109145,4,3,0,2,threshold-sensitive priority
+all computable districts,Balochistan,Kachhi,21530.953469034917,4,3,0,2,threshold-sensitive priority
+all computable districts,Balochistan,Ziarat,6592.550564917542,4,3,0,2,threshold-sensitive priority
+all computable districts,Khyber Pakhtunkhwa,Kolai Palas Kohistan,1071.785495203295,4,3,0,2,threshold-sensitive priority
+all computable districts,Balochistan,Jhal Magsi,40466.36908594585,4,2,0,2,threshold-sensitive priority
+all computable districts,Khyber Pakhtunkhwa,Mohmand,22925.60398878759,4,2,0,2,threshold-sensitive priority
+all computable districts,Balochistan,Sibi,20280.299673109606,4,2,0,2,threshold-sensitive priority
+all computable districts,Khyber Pakhtunkhwa,Upper Dir,13050.903853354648,4,2,0,2,threshold-sensitive priority
+all computable districts,Khyber Pakhtunkhwa,North Waziristan,12999.9967266138,4,2,0,2,threshold-sensitive priority
+all computable districts,Punjab,Chakwal,188878.33418616737,4,1,0,2,threshold-sensitive priority
+all computable districts,Balochistan,Nasirabad,166278.92922365703,4,1,0,2,threshold-sensitive priority
+all computable districts,Balochistan,Killa Saifullah,24526.314834992703,4,1,0,2,threshold-sensitive priority
+all computable districts,Balochistan,Musakhel,9878.11437173924,4,1,0,2,threshold-sensitive priority
+all computable districts,Balochistan,Mastung,2890.556343969615,4,1,0,2,threshold-sensitive priority
+all computable districts,Balochistan,Sherani,1089.8515562752882,4,1,0,2,threshold-sensitive priority
+all computable districts,Punjab,Jhang,590740.829217417,4,0,1,1,never priority
+all computable districts,Punjab,Muzaffargarh,576725.3058107336,4,0,1,1,never priority
+all computable districts,Punjab,Okara,552483.446681469,4,0,1,1,never priority
+all computable districts,Punjab,Faisalabad,531342.3376354284,4,0,1,1,never priority
+all computable districts,Punjab,Sargodha,518491.4652803144,4,0,1,1,never priority
+all computable districts,Punjab,Sheikhupura,510193.731777723,4,0,0,1,never priority
+all computable districts,Punjab,Vehari,508576.9163459996,4,0,1,1,never priority
+all computable districts,Punjab,Gujranwala,507147.4032807224,4,0,0,1,never priority
+all computable districts,Punjab,Khanewal,477329.6578164192,4,0,1,1,never priority
+all computable districts,Punjab,Rajanpur,449144.8908790413,4,0,1,1,never priority
+all computable districts,Punjab,Bahawalnagar,440473.7452102834,4,0,0,1,never priority
+all computable districts,Punjab,Kasur,424731.3976116003,4,0,0,1,never priority
+all computable districts,Punjab,Dera Ghazi Khan,413467.8819535693,4,0,1,1,never priority
+all computable districts,Punjab,Leiah,404446.4533228118,4,0,0,1,never priority
+all computable districts,Sindh,Kambar Shahdad Kot,395814.47159523633,4,0,0,1,never priority
+all computable districts,Punjab,Hafizabad,352827.95862295787,4,0,0,1,never priority
+all computable districts,Punjab,Pakpattan,351505.4878135879,4,0,0,1,never priority
+all computable districts,Punjab,Multan,351443.51772166154,4,0,1,1,never priority
+all computable districts,Punjab,Sahiwal,350707.8645665022,4,0,0,1,never priority
+all computable districts,Punjab,Lodhran,350141.2648405503,4,0,1,1,never priority
+all computable districts,Punjab,Mandi Bahauddin,328755.2157661373,4,0,0,1,never priority
+all computable districts,Punjab,Toba Tek Singh,311346.8356822991,4,0,0,1,never priority
+all computable districts,Punjab,Bhakkar,298826.8790048564,4,0,0,1,never priority
+all computable districts,Punjab,Bahawalpur,292993.63165531063,4,0,0,1,never priority
+all computable districts,Punjab,Chiniot,271311.25234920584,4,0,0,1,never priority
+all computable districts,Sindh,Naushahro Feroze,267813.8866880784,4,0,0,1,never priority
+all computable districts,Sindh,Shikarpur,260258.21692347477,4,0,0,1,never priority
+all computable districts,Sindh,Kashmore,258044.87817210503,4,0,0,1,never priority
+all computable districts,Sindh,Jacobabad,257462.33212275384,4,0,0,1,never priority
+all computable districts,Sindh,Khairpur,256851.80435982693,4,0,0,1,never priority
+all computable districts,Sindh,Dadu,247315.8418802984,4,0,0,1,never priority
+all computable districts,Khyber Pakhtunkhwa,D. I. Khan,244505.9572454933,4,0,0,1,never priority
+all computable districts,Sindh,Larkana,195430.6150741572,4,0,0,1,never priority
+all computable districts,Punjab,Sialkot,418694.4312094076,4,0,0,0,never priority
+all computable districts,Punjab,Narowal,326868.6472832858,4,0,0,0,never priority
+all computable districts,Punjab,Nankana Sahib,308253.9415823954,4,0,0,0,never priority
+all computable districts,Punjab,Mianwali,302470.16400533554,4,0,0,0,never priority
+all computable districts,Punjab,Gujrat,261539.01447745383,4,0,0,0,never priority
+all computable districts,Punjab,Attock,261325.500511722,4,0,0,0,never priority
+all computable districts,Punjab,Khushab,219103.9506969981,4,0,0,0,never priority
+all computable districts,Balochistan,Jaffarabad,137820.87936580466,4,0,0,0,never priority
+all computable districts,Khyber Pakhtunkhwa,Mardan,124589.43645049352,4,0,0,0,never priority
+all computable districts,Punjab,Rahim Yar Khan,119146.35348491494,4,0,0,0,never priority
+all computable districts,Sindh,Shaheed Benazir Abad,117358.148910538,4,0,0,0,never priority
+all computable districts,Khyber Pakhtunkhwa,Swabi,116296.39048350992,4,0,0,0,never priority
+all computable districts,Punjab,Jhelum,116241.63778384516,4,0,0,0,never priority
+all computable districts,Punjab,Lahore,100415.86795567573,4,0,0,0,never priority
+all computable districts,Khyber Pakhtunkhwa,Charsadda,73660.47960408783,4,0,0,0,never priority
+all computable districts,Khyber Pakhtunkhwa,Peshawar,68931.79326569191,4,0,0,0,never priority
+all computable districts,Sindh,Tando Muhammad Khan,67223.06904002723,4,0,0,0,never priority
+all computable districts,Sindh,Jamshoro,64425.16506388212,4,0,0,0,never priority
+all computable districts,Sindh,Sukkur,60180.4475267019,4,0,0,0,never priority
+all computable districts,Sindh,Thatta,59900.72728221634,4,0,0,0,never priority
+all computable districts,Sindh,Matiari,57992.66788942852,4,0,0,0,never priority
+all computable districts,Sindh,Hyderabad,54004.156269450985,4,0,0,0,never priority
+all computable districts,Khyber Pakhtunkhwa,Nowshera,53060.59068418341,4,0,0,0,never priority
+all computable districts,Khyber Pakhtunkhwa,Bannu,47372.18304698091,4,0,0,0,never priority
+all computable districts,Khyber Pakhtunkhwa,Kohat,39269.92588500027,4,0,0,0,never priority
+all computable districts,Balochistan,Barkhan,39240.46912025254,4,0,0,0,never priority
+all computable districts,Khyber Pakhtunkhwa,Lakki Marwat,38614.746598982376,4,0,0,0,never priority
+all computable districts,Balochistan,Khuzdar,32971.98733825181,4,0,0,0,never priority
+all computable districts,Khyber Pakhtunkhwa,Tank,28522.79975188062,4,0,0,0,never priority
+all computable districts,Sindh,Ghotki,25274.12472611561,4,0,0,0,never priority
+all computable districts,Khyber Pakhtunkhwa,Malakand,25220.4475522188,4,0,0,0,never priority
+all computable districts,Balochistan,Dera Bugti,22753.703965190056,4,0,0,0,never priority
+all computable districts,Balochistan,Loralai,14366.50366695389,4,0,0,0,never priority
+all computable districts,Balochistan,Kohlu,11602.21914870888,4,0,0,0,never priority
+all computable districts,Balochistan,Zhob,7671.013312176192,4,0,0,0,never priority
+all computable districts,Sindh,Tando Allahyar,6257.8519360023965,4,0,0,0,never priority
+all computable districts,Balochistan,Kalat,3602.611990559743,4,0,0,0,never priority
+all computable districts,Balochistan,Harnai,3162.895195444191,4,0,0,0,never priority
+all computable districts,Khyber Pakhtunkhwa,Chitral Lower,2782.9207515439566,4,0,0,0,never priority
+all computable districts,Sindh,Badin,1709.7175413648,4,0,0,0,never priority
+all computable districts,Balochistan,Quetta,27.349390852743504,4,0,0,0,never priority
+all computable districts,Balochistan,Lasbela,15.63440618921144,4,0,0,0,never priority
+"districts with mapped area >=25,000 ha",Punjab,Rawalpindi,246277.81877328403,4,4,2,2,priority under all thresholds
+"districts with mapped area >=25,000 ha",Khyber Pakhtunkhwa,Haripur,66371.2074386095,4,4,2,2,priority under all thresholds
+"districts with mapped area >=25,000 ha",Khyber Pakhtunkhwa,Buner,64588.58836568083,4,4,2,2,priority under all thresholds
+"districts with mapped area >=25,000 ha",Khyber Pakhtunkhwa,Bajaur,59996.11986474839,4,4,2,2,priority under all thresholds
+"districts with mapped area >=25,000 ha",Khyber Pakhtunkhwa,Mansehra,43831.32694160743,4,4,2,2,priority under all thresholds
+"districts with mapped area >=25,000 ha",Khyber Pakhtunkhwa,Swat,43208.11303721073,4,4,2,2,priority under all thresholds
+"districts with mapped area >=25,000 ha",Islamabad,Islamabad,32749.152494859634,4,4,2,2,priority under all thresholds
+"districts with mapped area >=25,000 ha",Khyber Pakhtunkhwa,Kurram,29968.70654863821,4,4,2,2,priority under all thresholds
+"districts with mapped area >=25,000 ha",Punjab,Chakwal,188878.33418616737,4,3,0,2,threshold-sensitive priority
+"districts with mapped area >=25,000 ha",Balochistan,Nasirabad,166278.92922365703,4,3,0,2,threshold-sensitive priority
+"districts with mapped area >=25,000 ha",Balochistan,Jaffarabad,137820.87936580466,4,3,0,2,threshold-sensitive priority
+"districts with mapped area >=25,000 ha",Punjab,Jhelum,116241.63778384516,4,3,0,2,threshold-sensitive priority
+"districts with mapped area >=25,000 ha",Khyber Pakhtunkhwa,Lower Dir,52252.9558734484,4,3,0,2,threshold-sensitive priority
+"districts with mapped area >=25,000 ha",Balochistan,Jhal Magsi,40466.36908594585,4,3,0,2,threshold-sensitive priority
+"districts with mapped area >=25,000 ha",Khyber Pakhtunkhwa,Kohat,39269.92588500027,4,3,0,2,threshold-sensitive priority
+"districts with mapped area >=25,000 ha",Balochistan,Khuzdar,32971.98733825181,4,3,0,2,threshold-sensitive priority
+"districts with mapped area >=25,000 ha",Punjab,Attock,261325.500511722,4,2,0,2,threshold-sensitive priority
+"districts with mapped area >=25,000 ha",Khyber Pakhtunkhwa,Bannu,47372.18304698091,4,2,0,2,threshold-sensitive priority
+"districts with mapped area >=25,000 ha",Balochistan,Barkhan,39240.46912025254,4,2,0,2,threshold-sensitive priority
+"districts with mapped area >=25,000 ha",Sindh,Kambar Shahdad Kot,395814.47159523633,4,1,0,3,threshold-sensitive priority
+"districts with mapped area >=25,000 ha",Punjab,Narowal,326868.6472832858,4,1,0,2,threshold-sensitive priority
+"districts with mapped area >=25,000 ha",Khyber Pakhtunkhwa,Swabi,116296.39048350992,4,1,0,2,threshold-sensitive priority
+"districts with mapped area >=25,000 ha",Khyber Pakhtunkhwa,Lakki Marwat,38614.746598982376,4,1,0,2,threshold-sensitive priority
+"districts with mapped area >=25,000 ha",Punjab,Jhang,590740.829217417,4,0,1,1,never priority
+"districts with mapped area >=25,000 ha",Punjab,Muzaffargarh,576725.3058107336,4,0,1,1,never priority
+"districts with mapped area >=25,000 ha",Punjab,Okara,552483.446681469,4,0,1,1,never priority
+"districts with mapped area >=25,000 ha",Punjab,Faisalabad,531342.3376354284,4,0,1,1,never priority
+"districts with mapped area >=25,000 ha",Punjab,Sargodha,518491.4652803144,4,0,0,1,never priority
+"districts with mapped area >=25,000 ha",Punjab,Vehari,508576.9163459996,4,0,1,1,never priority
+"districts with mapped area >=25,000 ha",Punjab,Gujranwala,507147.4032807224,4,0,0,1,never priority
+"districts with mapped area >=25,000 ha",Punjab,Khanewal,477329.6578164192,4,0,1,1,never priority
+"districts with mapped area >=25,000 ha",Punjab,Rajanpur,449144.8908790413,4,0,0,1,never priority
+"districts with mapped area >=25,000 ha",Punjab,Bahawalnagar,440473.7452102834,4,0,0,1,never priority
+"districts with mapped area >=25,000 ha",Punjab,Kasur,424731.3976116003,4,0,0,1,never priority
+"districts with mapped area >=25,000 ha",Punjab,Dera Ghazi Khan,413467.8819535693,4,0,0,1,never priority
+"districts with mapped area >=25,000 ha",Punjab,Leiah,404446.4533228118,4,0,0,1,never priority
+"districts with mapped area >=25,000 ha",Punjab,Pakpattan,351505.4878135879,4,0,0,1,never priority
+"districts with mapped area >=25,000 ha",Punjab,Multan,351443.51772166154,4,0,1,1,never priority
+"districts with mapped area >=25,000 ha",Punjab,Sahiwal,350707.8645665022,4,0,0,1,never priority
+"districts with mapped area >=25,000 ha",Punjab,Lodhran,350141.2648405503,4,0,1,1,never priority
+"districts with mapped area >=25,000 ha",Punjab,Toba Tek Singh,311346.8356822991,4,0,0,1,never priority
+"districts with mapped area >=25,000 ha",Punjab,Bahawalpur,292993.63165531063,4,0,0,1,never priority
+"districts with mapped area >=25,000 ha",Punjab,Chiniot,271311.25234920584,4,0,0,1,never priority
+"districts with mapped area >=25,000 ha",Sindh,Naushahro Feroze,267813.8866880784,4,0,0,1,never priority
+"districts with mapped area >=25,000 ha",Sindh,Khairpur,256851.80435982693,4,0,0,1,never priority
+"districts with mapped area >=25,000 ha",Punjab,Sheikhupura,510193.731777723,4,0,0,0,never priority
+"districts with mapped area >=25,000 ha",Punjab,Sialkot,418694.4312094076,4,0,0,0,never priority
+"districts with mapped area >=25,000 ha",Punjab,Hafizabad,352827.95862295787,4,0,0,0,never priority
+"districts with mapped area >=25,000 ha",Punjab,Mandi Bahauddin,328755.2157661373,4,0,0,0,never priority
+"districts with mapped area >=25,000 ha",Punjab,Nankana Sahib,308253.9415823954,4,0,0,0,never priority
+"districts with mapped area >=25,000 ha",Punjab,Mianwali,302470.16400533554,4,0,0,0,never priority
+"districts with mapped area >=25,000 ha",Punjab,Bhakkar,298826.8790048564,4,0,0,0,never priority
+"districts with mapped area >=25,000 ha",Punjab,Gujrat,261539.01447745383,4,0,0,0,never priority
+"districts with mapped area >=25,000 ha",Sindh,Shikarpur,260258.21692347477,4,0,0,0,never priority
+"districts with mapped area >=25,000 ha",Sindh,Kashmore,258044.87817210503,4,0,0,0,never priority
+"districts with mapped area >=25,000 ha",Sindh,Jacobabad,257462.33212275384,4,0,0,0,never priority
+"districts with mapped area >=25,000 ha",Sindh,Dadu,247315.8418802984,4,0,0,0,never priority
+"districts with mapped area >=25,000 ha",Khyber Pakhtunkhwa,D. I. Khan,244505.9572454933,4,0,0,0,never priority
+"districts with mapped area >=25,000 ha",Punjab,Khushab,219103.9506969981,4,0,0,0,never priority
+"districts with mapped area >=25,000 ha",Sindh,Larkana,195430.6150741572,4,0,0,0,never priority
+"districts with mapped area >=25,000 ha",Khyber Pakhtunkhwa,Mardan,124589.43645049352,4,0,0,0,never priority
+"districts with mapped area >=25,000 ha",Punjab,Rahim Yar Khan,119146.35348491494,4,0,0,0,never priority
+"districts with mapped area >=25,000 ha",Sindh,Shaheed Benazir Abad,117358.148910538,4,0,0,0,never priority
+"districts with mapped area >=25,000 ha",Punjab,Lahore,100415.86795567573,4,0,0,0,never priority
+"districts with mapped area >=25,000 ha",Khyber Pakhtunkhwa,Charsadda,73660.47960408783,4,0,0,0,never priority
+"districts with mapped area >=25,000 ha",Khyber Pakhtunkhwa,Peshawar,68931.79326569191,4,0,0,0,never priority
+"districts with mapped area >=25,000 ha",Sindh,Tando Muhammad Khan,67223.06904002723,4,0,0,0,never priority
+"districts with mapped area >=25,000 ha",Sindh,Jamshoro,64425.16506388212,4,0,0,0,never priority
+"districts with mapped area >=25,000 ha",Sindh,Sukkur,60180.4475267019,4,0,0,0,never priority
+"districts with mapped area >=25,000 ha",Sindh,Thatta,59900.72728221634,4,0,0,0,never priority
+"districts with mapped area >=25,000 ha",Sindh,Matiari,57992.66788942852,4,0,0,0,never priority
+"districts with mapped area >=25,000 ha",Sindh,Hyderabad,54004.156269450985,4,0,0,0,never priority
+"districts with mapped area >=25,000 ha",Khyber Pakhtunkhwa,Nowshera,53060.59068418341,4,0,0,0,never priority
+"districts with mapped area >=25,000 ha",Khyber Pakhtunkhwa,Tank,28522.79975188062,4,0,0,0,never priority
+"districts with mapped area >=25,000 ha",Sindh,Ghotki,25274.12472611561,4,0,0,0,never priority
+"districts with mapped area >=25,000 ha",Khyber Pakhtunkhwa,Malakand,25220.4475522188,4,0,0,0,never priority

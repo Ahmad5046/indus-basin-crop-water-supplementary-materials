@@ -1,0 +1,431 @@
+year,season,gaul2024_gaul1_name,gaul2024_gaul2_code,gaul2024_gaul2_name,crop_code,crop_name,yield_t_ha,production_t,harvested_area_ha,source_name,source_url
+2023,rabi,Khyber Pakhtunkhwa,130134,Bannu,1,Wheat,2.184967,30347.0,13889.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Khyber Pakhtunkhwa,130150,Lakki Marwat,1,Wheat,1.138053,20848.0,18319.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Khyber Pakhtunkhwa,130156,North Waziristan,1,Wheat,2.257704,13115.0,5809.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Khyber Pakhtunkhwa,130140,D. I. Khan,1,Wheat,1.987779,104259.003,52450.001,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Khyber Pakhtunkhwa,130164,Tank,1,Wheat,2.102206,31346.001,14911.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Khyber Pakhtunkhwa,130161,South Waziristan,1,Wheat,0.879555,8690.0,9880.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Khyber Pakhtunkhwa,130132,Abbottabad,1,Wheat,1.513955,21860.001,14439.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Khyber Pakhtunkhwa,130135,Batagram,1,Wheat,1.556612,12442.0,7993.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Khyber Pakhtunkhwa,130142,Haripur,1,Wheat,1.562725,55097.0,35257.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Khyber Pakhtunkhwa,130148,Kolai Palas Kohistan,1,Wheat,1.517408,3138.0,2068.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Khyber Pakhtunkhwa,130153,Mansehra,1,Wheat,1.638431,68221.001,41638.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Khyber Pakhtunkhwa,130165,Tor Ghar,1,Wheat,1.434677,8862.0,6177.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Khyber Pakhtunkhwa,130141,Hangu,1,Wheat,1.396676,11429.0,8183.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Khyber Pakhtunkhwa,130143,Karak,1,Wheat,0.580831,3424.0,5895.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Khyber Pakhtunkhwa,130145,Kohat,1,Wheat,1.621348,41680.0,25707.001,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Khyber Pakhtunkhwa,130149,Kurram,1,Wheat,2.002101,54317.001,27129.999,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Khyber Pakhtunkhwa,130158,Orakzai,1,Wheat,2.753565,13129.0,4768.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Khyber Pakhtunkhwa,130136,Buner,1,Wheat,1.426391,70264.0,49259.998,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Khyber Pakhtunkhwa,130138,Chitral Lower,1,Wheat,1.930787,16124.001,8351.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Khyber Pakhtunkhwa,130151,Lower Dir,1,Wheat,1.93599,55862.999,28855.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Khyber Pakhtunkhwa,130152,Malakand,1,Wheat,1.751245,46408.001,26500.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Khyber Pakhtunkhwa,130160,Shangla,1,Wheat,1.323051,33841.0,25577.999,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Khyber Pakhtunkhwa,130163,Swat,1,Wheat,1.95864,115597.0,59019.001,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Khyber Pakhtunkhwa,130166,Upper Dir,1,Wheat,1.819517,46707.001,25670.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Khyber Pakhtunkhwa,130133,Bajaur,1,Wheat,1.755597,69943.00099999999,39840.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Khyber Pakhtunkhwa,130154,Mardan,1,Wheat,2.609166,115967.003,44445.999,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Khyber Pakhtunkhwa,130162,Swabi,1,Wheat,2.497154,97399.002,39004.002,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Khyber Pakhtunkhwa,130137,Charsadda,1,Wheat,2.831759,101325.996,35782.001000000004,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Khyber Pakhtunkhwa,130157,Nowshera,1,Wheat,2.432649,68101.997,27995.001,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Khyber Pakhtunkhwa,130159,Peshawar,1,Wheat,2.449642,84933.998,34672.001000000004,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Khyber Pakhtunkhwa,130144,Khyber,1,Wheat,2.0019,25288.0,12632.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Khyber Pakhtunkhwa,130155,Mohmand,1,Wheat,1.575466,13100.0,8315.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Punjab,130168,Bahawalnagar,1,Wheat,3.69257,1563040.039,423293.274,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Punjab,130169,Bahawalpur,1,Wheat,3.731361,1073609.985,287726.10500000004,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Punjab,130194,Rahim Yar Khan,1,Wheat,3.779781,1093660.034,289344.818,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Punjab,130173,Dera Ghazi Khan,1,Wheat,3.352807,739460.022,220549.545,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Punjab,130184,Leiah,1,Wheat,3.085892,837940.0020000001,271539.001,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Punjab,130189,Muzaffargarh,1,Wheat,3.263834,460959.991,141232.651,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Punjab,130195,Rajanpur,1,Wheat,3.502272,649119.995,185342.56,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Punjab,130172,Chiniot,1,Wheat,3.742242,368000.0,98336.777,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Punjab,130174,Faisalabad,1,Wheat,3.659201,852940.0020000001,233094.574,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Punjab,130178,Jhang,1,Wheat,3.546541,934320.007,263445.435,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Punjab,130201,Toba Tek Singh,1,Wheat,3.610799,470510.01,130306.335,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Punjab,130175,Gujranwala,1,Wheat,3.355766,544559.9979999999,162275.909,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Punjab,130176,Gujrat,1,Wheat,2.27937,363429.993,159443.161,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Punjab,130177,Hafizabad,1,Wheat,3.946057,595460.022,150899.994,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Punjab,130186,Mandi Bahauddin,1,Wheat,3.238114,432429.993,133543.762,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Punjab,130191,Narowal,1,Wheat,2.888598,364829.987,126300.003,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Punjab,130200,Sialkot,1,Wheat,2.971241,565130.005,190199.997,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Punjab,130180,Kasur,1,Wheat,3.407137,434320.007,127473.595,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Punjab,130183,Lahore,1,Wheat,3.490156,159600.006,45728.622,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Punjab,130190,Nankana Sahib,1,Wheat,3.543542,456010.01,128687.622,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Punjab,130199,Sheikhupura,1,Wheat,3.310266,755530.029,228238.434,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Punjab,130181,Khanewal,1,Wheat,3.742223,726909.973,194245.483,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Punjab,130185,Lodhran,1,Wheat,3.827245,594739.99,155396.378,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Punjab,130188,Multan,1,Wheat,3.703705,641489.99,173202.225,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Punjab,130202,Vehari,1,Wheat,3.717535,594239.99,159847.839,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Punjab,130167,Attock,1,Wheat,1.83077,348209.991,190198.7,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Punjab,130171,Chakwal,1,Wheat,1.771352,178490.005,100764.839,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Punjab,130179,Jhelum,1,Wheat,2.270484,193869.995,85387.077,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Punjab,130196,Rawalpindi,1,Wheat,2.093489,340570.007,162680.588,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Punjab,130192,Okara,1,Wheat,3.923084,506440.002,129092.3,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Punjab,130193,Pakpattan,1,Wheat,3.803503,324769.989,85387.077,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Punjab,130197,Sahiwal,1,Wheat,3.664147,407769.989,111286.469,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Punjab,130170,Bhakkar,1,Wheat,2.892107,471660.004,163085.266,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Punjab,130182,Khushab,1,Wheat,2.363396,290750.0,123022.133,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Punjab,130187,Mianwali,1,Wheat,3.09387,588450.012,190198.7,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Punjab,130198,Sargodha,1,Wheat,3.139293,630119.995,200720.322,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Sindh,130203,Badin,1,Wheat,2.271434,90026.00099999999,39633.999,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Sindh,130205,Dadu,1,Wheat,3.558385,284226.01300000004,79875.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Sindh,130208,Hyderabad,1,Wheat,4.151444,63268.002,15240.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Sindh,130210,Jamshoro,1,Wheat,2.591683,110372.002,42587.002,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Sindh,130217,Matiari,1,Wheat,3.954744,188229.996,47596.001,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Sindh,130226,Tando Allahyar,1,Wheat,3.121489,112358.002,35994.999,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Sindh,130227,Tando Muhammad Khan,1,Wheat,3.162958,26009.001,8223.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Sindh,130229,Thatta,1,Wheat,2.284307,35488.998,15536.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Sindh,KARACHI_CITY_GAUL2024_AGG,Karachi City,1,Wheat,2.866202,4520.0,1577.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Sindh,130209,Jacobabad,1,Wheat,3.165368,86518.997,27333.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Sindh,130212,Kashmore,1,Wheat,2.886448,121124.001,41963.001,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Sindh,130215,Larkana,1,Wheat,4.248827,241703.003,56887.001,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Sindh,130211,Kambar Shahdad Kot,1,Wheat,2.987357,234160.995,78384.00300000001,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Sindh,130222,Shikarpur,1,Wheat,2.821014,127853.996,45321.999,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Sindh,130218,Mirpur Khas,1,Wheat,3.022656,223341.003,73889.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Sindh,130228,Tharparkar,1,Wheat,2.506723,5966.0,2380.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Sindh,130230,Umer Kot,1,Wheat,2.926772,143046.005,48875.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Sindh,130207,Ghotki,1,Wheat,2.685314,289645.99600000004,107862.999,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Sindh,130213,Khairpur,1,Wheat,2.910954,336285.004,115524.002,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Sindh,130225,Sukkur,1,Wheat,3.458871,171770.99599999998,49660.999,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Sindh,130220,Sanghar,1,Wheat,2.81211,348096.98500000004,123785.004,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Sindh,130219,Naushahro Feroze,1,Wheat,3.56922,339497.009,95117.996,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Sindh,130221,Shaheed Benazir Abad,1,Wheat,4.197023,356662.994,84980.003,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Balochistan,130096,Awaran,1,Wheat,2.650002,55658.001,21003.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Balochistan,130107,Kalat,1,Wheat,2.606888,19754.999,7578.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Balochistan,130110,Khuzdar,1,Wheat,2.724,182507.996,67000.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Balochistan,130114,Lasbela,1,Wheat,2.799992,71467.00300000001,25524.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Balochistan,130117,Mastung,1,Wheat,2.689528,13176.0,4899.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Balochistan,130102,Gwadar,1,Wheat,2.175355,918.0,422.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Balochistan,130108,Kech,1,Wheat,2.603683,13573.0,5213.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Balochistan,130121,Panjgur,1,Wheat,2.102204,13637.0,6487.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Balochistan,130104,Jaffarabad,1,Wheat,2.900012,214539.993,73978.996,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Balochistan,130105,Jhal Magsi,1,Wheat,2.98435,174679.993,58532.001,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Balochistan,130106,Kachhi,1,Wheat,2.795166,86611.0,30986.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Balochistan,130119,Nasirabad,1,Wheat,3.491839,325621.002,93251.999,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Balochistan,130111,Killa Abdullah,1,Wheat,2.390503,4279.0,1790.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Balochistan,130122,Pishin,1,Wheat,2.662709,13231.0,4969.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Balochistan,130123,Quetta,1,Wheat,2.339615,5587.0,2388.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Balochistan,130100,Dera Bugti,1,Wheat,1.781131,48803.001,27400.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Balochistan,130103,Harnai,1,Wheat,2.55,3927.0,1540.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Balochistan,130113,Kohlu,1,Wheat,2.527087,26028.999,10300.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Balochistan,130126,Sibi,1,Wheat,2.545565,44078.999,17316.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Balochistan,130130,Ziarat,1,Wheat,2.492509,1331.0,534.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Balochistan,130112,Killa Saifullah,1,Wheat,2.552927,21368.0,8370.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Balochistan,130125,Sherani,1,Wheat,2.117086,2441.0,1153.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Balochistan,130129,Zhob,1,Wheat,2.309712,14341.0,6209.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Balochistan,130097,Barkhan,1,Wheat,2.519401,42205.002,16752.001,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Balochistan,130116,Loralai,1,Wheat,2.287394,27618.0,12074.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Balochistan,130118,Musakhel,1,Wheat,1.90873,6734.0,3528.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Balochistan,130109,Kharan,1,Wheat,2.647918,25750.999,9725.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Balochistan,130128,Washuk,1,Wheat,1.939417,19976.0,10300.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Balochistan,130098,Chagai,1,Wheat,2.547398,15371.0,6034.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Balochistan,130120,Nushki,1,Wheat,2.496495,21013.0,8417.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,rabi,Islamabad,130131,Islamabad,1,Wheat,1.933132,64180.00000000001,33200.001000000004,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Khyber Pakhtunkhwa,130134,Bannu,2,Rice,1.852117,5686.0,3070.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Khyber Pakhtunkhwa,130150,Lakki Marwat,2,Rice,1.542714,307.0,199.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Khyber Pakhtunkhwa,130156,North Waziristan,2,Rice,1.608466,304.0,189.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Khyber Pakhtunkhwa,130140,D. I. Khan,2,Rice,2.750108,25542.999,9288.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Khyber Pakhtunkhwa,130164,Tank,2,Rice,1.650485,1190.0,721.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Khyber Pakhtunkhwa,130135,Batagram,2,Rice,2.190447,3577.0,1633.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Khyber Pakhtunkhwa,130148,Kolai Palas Kohistan,2,Rice,2.213333,166.0,75.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Khyber Pakhtunkhwa,130153,Mansehra,2,Rice,2.624912,3730.0,1421.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Khyber Pakhtunkhwa,130141,Hangu,2,Rice,1.789474,204.0,114.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Khyber Pakhtunkhwa,130145,Kohat,2,Rice,1.666667,10.0,6.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Khyber Pakhtunkhwa,130149,Kurram,2,Rice,2.910941,17454.0,5996.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Khyber Pakhtunkhwa,130158,Orakzai,2,Rice,1.821244,703.0,386.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Khyber Pakhtunkhwa,130136,Buner,2,Rice,2.319767,399.0,172.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Khyber Pakhtunkhwa,130138,Chitral Lower,2,Rice,2.848302,5201.0,1826.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Khyber Pakhtunkhwa,130151,Lower Dir,2,Rice,2.422598,19639.999,8106.999999999999,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Khyber Pakhtunkhwa,130152,Malakand,2,Rice,2.829712,8857.0,3130.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Khyber Pakhtunkhwa,130160,Shangla,2,Rice,2.800735,3809.0,1360.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Khyber Pakhtunkhwa,130163,Swat,2,Rice,3.469173,14855.0,4282.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Khyber Pakhtunkhwa,130166,Upper Dir,2,Rice,1.892901,12372.0,6536.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Khyber Pakhtunkhwa,130133,Bajaur,2,Rice,1.57608,7551.0,4791.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Khyber Pakhtunkhwa,130154,Mardan,2,Rice,1.651846,4384.0,2654.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Khyber Pakhtunkhwa,130162,Swabi,2,Rice,1.630573,768.0,471.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Khyber Pakhtunkhwa,130137,Charsadda,2,Rice,2.333333,154.0,66.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Khyber Pakhtunkhwa,130157,Nowshera,2,Rice,1.875,45.0,24.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Khyber Pakhtunkhwa,130159,Peshawar,2,Rice,3.644068,215.0,59.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130168,Bahawalnagar,2,Rice,2.280508,239020.004,104809.998,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130169,Bahawalpur,2,Rice,2.128459,21540.001,10120.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130194,Rahim Yar Khan,2,Rice,1.980932,56099.998,28320.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130173,Dera Ghazi Khan,2,Rice,2.850711,168419.998,59080.002,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130184,Leiah,2,Rice,1.975309,1600.0,810.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130189,Muzaffargarh,2,Rice,2.145429,60779.999,28330.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130195,Rajanpur,2,Rice,1.940086,31410.0,16190.000999999998,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130172,Chiniot,2,Rice,2.512356,106750.0,42490.002,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130174,Faisalabad,2,Rice,2.242817,72599.99799999999,32369.999,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130178,Jhang,2,Rice,2.32198,340170.013,146500.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130201,Toba Tek Singh,2,Rice,2.592239,119580.002,46130.001,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130175,Gujranwala,2,Rice,2.26895,584890.0149999999,257779.999,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130176,Gujrat,2,Rice,1.861534,64800.003,34810.001,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130177,Hafizabad,2,Rice,2.446452,364350.006,148929.993,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130186,Mandi Bahauddin,2,Rice,2.133103,178690.00199999998,83769.997,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130191,Narowal,2,Rice,1.810016,138429.993,76480.003,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130200,Sialkot,2,Rice,2.016688,377040.009,186960.007,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130180,Kasur,2,Rice,2.395487,190009.995,79320.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130183,Lahore,2,Rice,2.137763,52759.998,24680.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130190,Nankana Sahib,2,Rice,2.47367,267279.99899999995,108050.003,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130199,Sheikhupura,2,Rice,2.281494,538250.0,235919.998,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130181,Khanewal,2,Rice,2.461841,112580.002,45730.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130185,Lodhran,2,Rice,2.228938,24340.0,10920.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130188,Multan,2,Rice,2.295158,68739.998,29950.001,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130202,Vehari,2,Rice,2.57169,84300.003,32779.999,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130179,Jhelum,2,Rice,1.987654,4830.0,2430.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130192,Okara,2,Rice,2.767464,349420.013,126260.002,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130193,Pakpattan,2,Rice,2.654413,218059.998,82150.00200000001,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130197,Sahiwal,2,Rice,2.737644,95269.997,34799.999,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130170,Bhakkar,2,Rice,2.296296,1860.0,810.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130182,Khushab,2,Rice,1.799433,44410.0,24680.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130187,Mianwali,2,Rice,2.614198,8470.0,3240.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130198,Sargodha,2,Rice,1.904599,83250.0,43709.999,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Sindh,130203,Badin,2,Rice,3.073281,382854.004,124574.997,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Sindh,130205,Dadu,2,Rice,3.008703,66377.998,22062.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Sindh,130208,Hyderabad,2,Rice,3.689011,3357.0,910.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Sindh,130210,Jamshoro,2,Rice,2.960967,1593.0,538.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Sindh,130227,Tando Muhammad Khan,2,Rice,2.693443,30848.0,11453.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Sindh,130229,Thatta,2,Rice,4.274952,254115.997,59443.001,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Sindh,130209,Jacobabad,2,Rice,3.931339,401885.01,102225.998,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Sindh,130212,Kashmore,2,Rice,2.534235,177807.007,70162.003,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Sindh,130215,Larkana,2,Rice,3.566051,301990.997,84684.99799999999,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Sindh,130211,Kambar Shahdad Kot,2,Rice,1.790302,48220.001,26934.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Sindh,130222,Shikarpur,2,Rice,3.445521,299588.013,86949.997,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Sindh,130225,Sukkur,2,Rice,3.375472,5367.0,1590.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Sindh,130220,Sanghar,2,Rice,3.131375,17805.0,5686.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Sindh,130219,Naushahro Feroze,2,Rice,2.989391,7608.0,2545.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Sindh,130221,Shaheed Benazir Abad,2,Rice,3.487324,12380.0,3550.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Balochistan,130096,Awaran,2,Rice,2.252708,624.0,277.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Balochistan,130110,Khuzdar,2,Rice,2.524514,3244.0,1285.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Balochistan,130108,Kech,2,Rice,2.150443,2187.0,1017.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Balochistan,130121,Panjgur,2,Rice,2.066667,31.0,15.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Balochistan,130104,Jaffarabad,2,Rice,1.137818,85507.004,75150.00200000001,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Balochistan,130105,Jhal Magsi,2,Rice,0.758454,157.0,207.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Balochistan,130119,Nasirabad,2,Rice,0.221484,10804.0,48779.999,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Balochistan,130100,Dera Bugti,2,Rice,2.819277,468.0,166.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Balochistan,130103,Harnai,2,Rice,2.537037,137.0,54.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Khyber Pakhtunkhwa,130140,D. I. Khan,3,Cotton,3.056497,541.0,177.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130168,Bahawalnagar,3,Cotton,2.248323,593219.971,263850.006,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130169,Bahawalpur,3,Cotton,2.246687,525500.0,233899.994,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130194,Rahim Yar Khan,3,Cotton,1.911007,362690.002,189789.993,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130173,Dera Ghazi Khan,3,Cotton,1.093468,50889.999,46540.001,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130184,Leiah,3,Cotton,2.322975,94940.002,40869.999,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130189,Muzaffargarh,3,Cotton,1.396139,126559.998,90650.002,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130195,Rajanpur,3,Cotton,1.214954,133729.996,110070.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130174,Faisalabad,3,Cotton,4.247148,44680.0,10520.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130178,Jhang,3,Cotton,2.466135,30950.001,12550.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130201,Toba Tek Singh,3,Cotton,2.697693,32750.0,12140.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130180,Kasur,3,Cotton,1.777228,3590.0,2020.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130181,Khanewal,3,Cotton,2.409224,255449.997,106029.999,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130185,Lodhran,3,Cotton,2.456801,264450.012,107639.999,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130188,Multan,3,Cotton,1.93766,188979.996,97529.999,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130202,Vehari,3,Cotton,2.551546,168300.003,65959.999,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130192,Okara,3,Cotton,4.32809,19260.0,4450.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130193,Pakpattan,3,Cotton,3.683146,32779.999,8900.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130197,Sahiwal,3,Cotton,3.049418,86389.999,28330.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130170,Bhakkar,3,Cotton,3.189412,27110.001,8500.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130182,Khushab,3,Cotton,2.222222,1800.0,810.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130187,Mianwali,3,Cotton,3.842786,163279.999,42490.002,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Punjab,130198,Sargodha,3,Cotton,1.666667,2700.0,1620.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Sindh,130203,Badin,3,Cotton,3.355009,42564.999,12687.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Sindh,130205,Dadu,3,Cotton,2.080934,26379.999,12677.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Sindh,130208,Hyderabad,3,Cotton,4.366299,21766.001,4985.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Sindh,130210,Jamshoro,3,Cotton,3.495563,55146.0,15776.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Sindh,130217,Matiari,3,Cotton,3.61267,142686.005,39495.998,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Sindh,130226,Tando Allahyar,3,Cotton,4.172509,99626.999,23877.001,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Sindh,130227,Tando Muhammad Khan,3,Cotton,2.952173,11481.0,3889.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Sindh,130229,Thatta,3,Cotton,3.874061,20118.0,5193.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Sindh,KARACHI_CITY_GAUL2024_AGG,Karachi City,3,Cotton,3.871795,1510.0,390.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Sindh,130212,Kashmore,3,Cotton,0.0,0.0,28.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Sindh,130215,Larkana,3,Cotton,0.0,0.0,267.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Sindh,130222,Shikarpur,3,Cotton,0.0,0.0,283.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Sindh,130218,Mirpur Khas,3,Cotton,3.355051,127039.001,37865.002,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Sindh,130228,Tharparkar,3,Cotton,3.142105,2985.0,950.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Sindh,130230,Umer Kot,3,Cotton,3.508064,98096.001,27962.999,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Sindh,130207,Ghotki,3,Cotton,1.616068,144832.001,89620.003,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Sindh,130213,Khairpur,3,Cotton,1.395039,123553.001,88566.002,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Sindh,130225,Sukkur,3,Cotton,2.694271,109575.996,40669.998,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Sindh,130220,Sanghar,3,Cotton,4.823363,384339.996,79682.999,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Sindh,130219,Naushahro Feroze,3,Cotton,1.702885,65745.003,38608.002,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Sindh,130221,Shaheed Benazir Abad,3,Cotton,1.640744,108842.003,66336.99799999999,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Balochistan,130096,Awaran,3,Cotton,1.211029,3294.0,2720.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Balochistan,130110,Khuzdar,3,Cotton,1.440538,12864.0,8930.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Balochistan,130114,Lasbela,3,Cotton,1.229872,16344.999000000002,13290.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Balochistan,130108,Kech,3,Cotton,2.389171,14120.0,5910.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Balochistan,130121,Panjgur,3,Cotton,0.685,548.0,800.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Balochistan,130105,Jhal Magsi,3,Cotton,0.0,0.0,13.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Balochistan,130106,Kachhi,3,Cotton,1.887943,2662.0,1410.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Balochistan,130119,Nasirabad,3,Cotton,0.397531,966.0,2430.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Balochistan,130100,Dera Bugti,3,Cotton,1.927744,6323.0,3280.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Balochistan,130113,Kohlu,3,Cotton,2.713936,12191.0,4492.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Balochistan,130126,Sibi,3,Cotton,1.134689,8315.0,7328.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Balochistan,130097,Barkhan,3,Cotton,2.684918,24371.0,9077.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Balochistan,130116,Loralai,3,Cotton,2.072034,489.0,236.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Balochistan,130118,Musakhel,3,Cotton,2.8,14.0,5.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Balochistan,130109,Kharan,3,Cotton,1.090189,5778.0,5300.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Balochistan,130128,Washuk,3,Cotton,0.795276,404.0,508.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Balochistan,130098,Chagai,3,Cotton,2.335,467.0,200.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,kharif,Balochistan,130120,Nushki,3,Cotton,1.414788,3578.0,2529.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Khyber Pakhtunkhwa,130134,Bannu,4,Sugarcane,45.853658,13160.0,287.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Khyber Pakhtunkhwa,130150,Lakki Marwat,4,Sugarcane,40.333333,242.0,6.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Khyber Pakhtunkhwa,130140,D. I. Khan,4,Sugarcane,64.500072,1317542.969,20427.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Khyber Pakhtunkhwa,130164,Tank,4,Sugarcane,20.450425,14438.0,706.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Khyber Pakhtunkhwa,130142,Haripur,4,Sugarcane,31.375001,1255.0,40.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Khyber Pakhtunkhwa,130141,Hangu,4,Sugarcane,35.45,709.0,20.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Khyber Pakhtunkhwa,130145,Kohat,4,Sugarcane,34.877194,1988.0,57.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Khyber Pakhtunkhwa,130136,Buner,4,Sugarcane,32.794116,2230.0,68.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Khyber Pakhtunkhwa,130152,Malakand,4,Sugarcane,43.347182,189904.007,4381.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Khyber Pakhtunkhwa,130154,Mardan,4,Sugarcane,41.578725,1123665.039,27025.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Khyber Pakhtunkhwa,130162,Swabi,4,Sugarcane,39.919782,95049.004,2381.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Khyber Pakhtunkhwa,130137,Charsadda,4,Sugarcane,61.208488,1647854.98,26922.001,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Khyber Pakhtunkhwa,130157,Nowshera,4,Sugarcane,51.188523,143634.995,2806.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Khyber Pakhtunkhwa,130159,Peshawar,4,Sugarcane,53.329931,287075.012,5383.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Khyber Pakhtunkhwa,130144,Khyber,4,Sugarcane,23.886956,5494.0,230.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Punjab,130168,Bahawalnagar,4,Sugarcane,71.552664,1100479.98,15380.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Punjab,130169,Bahawalpur,4,Sugarcane,63.164892,1482479.98,23469.999,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Punjab,130194,Rahim Yar Khan,4,Sugarcane,80.855424,17505199.218999997,216500.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Punjab,130173,Dera Ghazi Khan,4,Sugarcane,73.359424,712320.007,9710.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Punjab,130184,Leiah,4,Sugarcane,62.965405,1146599.976,18209.999,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Punjab,130189,Muzaffargarh,4,Sugarcane,70.869122,4158600.098,58680.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Punjab,130195,Rajanpur,4,Sugarcane,73.833022,3944159.912,53419.998,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Punjab,130172,Chiniot,4,Sugarcane,72.843658,4952640.137,67989.998,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Punjab,130174,Faisalabad,4,Sugarcane,70.078285,6409359.863,91459.999,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Punjab,130178,Jhang,4,Sugarcane,71.562568,6805600.098,95099.998,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Punjab,130201,Toba Tek Singh,4,Sugarcane,69.192755,2520000.0,36419.998,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Punjab,130175,Gujranwala,4,Sugarcane,58.074075,188160.004,3240.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Punjab,130176,Gujrat,4,Sugarcane,42.445232,120120.003,2830.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Punjab,130177,Hafizabad,4,Sugarcane,42.772278,86400.00200000001,2020.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Punjab,130186,Mandi Bahauddin,4,Sugarcane,52.683936,1321839.966,25090.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Punjab,130191,Narowal,4,Sugarcane,55.308641,44799.999,810.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Punjab,130200,Sialkot,4,Sugarcane,81.382712,395519.989,4860.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Punjab,130180,Kasur,4,Sugarcane,56.640819,1329359.985,23469.999,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Punjab,130183,Lahore,4,Sugarcane,60.599999,24240.0,400.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Punjab,130190,Nankana Sahib,4,Sugarcane,64.049422,829440.0020000001,12950.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Punjab,130199,Sheikhupura,4,Sugarcane,57.283948,139199.997,2430.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Punjab,130181,Khanewal,4,Sugarcane,73.100465,472959.991,6470.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Punjab,130185,Lodhran,4,Sugarcane,89.901094,327239.99,3640.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Punjab,130188,Multan,4,Sugarcane,64.197528,260000.0,4050.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Punjab,130202,Vehari,4,Sugarcane,70.955294,1206239.99,17000.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Punjab,130192,Okara,4,Sugarcane,101.521624,1150239.99,11330.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Punjab,130193,Pakpattan,4,Sugarcane,60.495049,122199.997,2020.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Punjab,130197,Sahiwal,4,Sugarcane,63.593404,231479.996,3640.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Punjab,130170,Bhakkar,4,Sugarcane,64.84153,2860159.912,44110.001,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Punjab,130182,Khushab,4,Sugarcane,54.558136,375359.985,6880.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Punjab,130187,Mianwali,4,Sugarcane,69.135802,392000.0,5670.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Punjab,130198,Sargodha,4,Sugarcane,62.770751,4318000.0,68790.001,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Sindh,130203,Badin,4,Sugarcane,44.084442,668760.986,15170.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Sindh,130205,Dadu,4,Sugarcane,49.224266,318480.988,6470.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Sindh,130208,Hyderabad,4,Sugarcane,48.137078,192789.001,4005.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Sindh,130210,Jamshoro,4,Sugarcane,39.734695,15576.0,392.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Sindh,130217,Matiari,4,Sugarcane,56.439907,699234.009,12389.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Sindh,130226,Tando Allahyar,4,Sugarcane,56.736459,1132176.025,19955.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Sindh,130227,Tando Muhammad Khan,4,Sugarcane,54.265386,789072.998,14541.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Sindh,130229,Thatta,4,Sugarcane,57.032976,1961192.993,34387.001,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Sindh,130209,Jacobabad,4,Sugarcane,25.233645,2700.0,107.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Sindh,130212,Kashmore,4,Sugarcane,55.381252,8861.0,160.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Sindh,130215,Larkana,4,Sugarcane,68.958269,44616.001,647.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Sindh,130211,Kambar Shahdad Kot,4,Sugarcane,57.77143,2022.0,35.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Sindh,130222,Shikarpur,4,Sugarcane,57.361965,9350.0,163.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Sindh,130218,Mirpur Khas,4,Sugarcane,49.520838,981502.991,19820.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Sindh,130228,Tharparkar,4,Sugarcane,55.376002,20766.001,375.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Sindh,130230,Umer Kot,4,Sugarcane,50.311656,74260.002,1476.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Sindh,130207,Ghotki,4,Sugarcane,58.911025,3761351.074,63848.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Sindh,130213,Khairpur,4,Sugarcane,58.416782,1096483.032,18770.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Sindh,130225,Sukkur,4,Sugarcane,59.108702,427946.991,7240.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Sindh,130220,Sanghar,4,Sugarcane,57.428379,730890.991,12727.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Sindh,130219,Naushahro Feroze,4,Sugarcane,55.945686,1212454.956,21672.001,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Sindh,130221,Shaheed Benazir Abad,4,Sugarcane,57.724892,2021237.061,35014.999,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Balochistan,130114,Lasbela,4,Sugarcane,40.444445,364.0,9.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Balochistan,130104,Jaffarabad,4,Sugarcane,53.399999,534.0,10.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,annual,Balochistan,130103,Harnai,4,Sugarcane,47.807407,32270.000000000004,675.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Khyber Pakhtunkhwa,130134,Bannu,5,Maize,2.065567,10648.0,5155.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Khyber Pakhtunkhwa,130150,Lakki Marwat,5,Maize,1.976917,2398.0,1213.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Khyber Pakhtunkhwa,130156,North Waziristan,5,Maize,0.979971,4746.0,4843.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Khyber Pakhtunkhwa,130140,D. I. Khan,5,Maize,2.59941,4406.0,1695.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Khyber Pakhtunkhwa,130164,Tank,5,Maize,2.601078,965.0,371.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Khyber Pakhtunkhwa,130161,South Waziristan,5,Maize,1.074293,4367.0,4065.000000000001,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Khyber Pakhtunkhwa,130132,Abbottabad,5,Maize,1.660929,32227.001,19403.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Khyber Pakhtunkhwa,130135,Batagram,5,Maize,1.623134,30885.0,19028.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Khyber Pakhtunkhwa,130142,Haripur,5,Maize,1.069892,34810.001,32535.999,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Khyber Pakhtunkhwa,130148,Kolai Palas Kohistan,5,Maize,2.197277,57293.999,26075.001,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Khyber Pakhtunkhwa,130153,Mansehra,5,Maize,2.070938,97213.997,46942.001,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Khyber Pakhtunkhwa,130141,Hangu,5,Maize,0.827195,4447.0,5376.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Khyber Pakhtunkhwa,130143,Karak,5,Maize,1.136364,25.0,22.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Khyber Pakhtunkhwa,130145,Kohat,5,Maize,0.775826,1502.0,1936.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Khyber Pakhtunkhwa,130149,Kurram,5,Maize,1.4937,4505.0,3016.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Khyber Pakhtunkhwa,130158,Orakzai,5,Maize,1.115089,5949.0,5335.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Khyber Pakhtunkhwa,130136,Buner,5,Maize,1.547994,74699.997,48256.001,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Khyber Pakhtunkhwa,130138,Chitral Lower,5,Maize,2.159607,11880.0,5501.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Khyber Pakhtunkhwa,130151,Lower Dir,5,Maize,2.571952,51902.0,20180.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Khyber Pakhtunkhwa,130152,Malakand,5,Maize,2.51086,11098.0,4420.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Khyber Pakhtunkhwa,130160,Shangla,5,Maize,1.499814,56354.0,37574.001,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Khyber Pakhtunkhwa,130163,Swat,5,Maize,1.888848,118919.998,62959.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Khyber Pakhtunkhwa,130166,Upper Dir,5,Maize,2.093456,10461.0,4997.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Khyber Pakhtunkhwa,130133,Bajaur,5,Maize,1.311066,9597.0,7320.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Khyber Pakhtunkhwa,130154,Mardan,5,Maize,2.914738,68781.998,23598.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Khyber Pakhtunkhwa,130162,Swabi,5,Maize,2.232746,60820.0,27240.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Khyber Pakhtunkhwa,130137,Charsadda,5,Maize,3.198116,50251.999,15713.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Khyber Pakhtunkhwa,130157,Nowshera,5,Maize,3.139123,28701.0,9143.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Khyber Pakhtunkhwa,130159,Peshawar,5,Maize,3.574137,65420.998,18304.001,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Khyber Pakhtunkhwa,130144,Khyber,5,Maize,1.503781,3182.0,2116.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Khyber Pakhtunkhwa,130155,Mohmand,5,Maize,1.204604,471.0,391.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Punjab,130168,Bahawalnagar,5,Maize,9.382706,198199.997,21123.97,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Punjab,130169,Bahawalpur,5,Maize,7.212476,394399.994,54683.025,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Punjab,130194,Rahim Yar Khan,5,Maize,8.780493,26400.0,3006.665,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Punjab,130173,Dera Ghazi Khan,5,Maize,9.63729,3900.0,404.678,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Punjab,130189,Muzaffargarh,5,Maize,6.046059,15200.0,2514.034,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Punjab,130172,Chiniot,5,Maize,9.344203,311200.012,33304.073000000004,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Punjab,130174,Faisalabad,5,Maize,8.338942,448000.0,53723.843,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Punjab,130178,Jhang,5,Maize,9.735613,48299.999,4961.167,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Punjab,130201,Toba Tek Singh,5,Maize,7.873268,379100.006,48150.276,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Punjab,130175,Gujranwala,5,Maize,9.178372,18200.001,1982.923,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Punjab,130177,Hafizabad,5,Maize,2.4711,1800.0,728.4209999999999,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Punjab,130186,Mandi Bahauddin,5,Maize,5.471721,3100.0,566.549,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Punjab,130200,Sialkot,5,Maize,12.189743,68800.003,5644.09,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Punjab,130180,Kasur,5,Maize,9.819793,848200.012,86376.564,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Punjab,130183,Lahore,5,Maize,4.999667,8700.0,1740.116,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Punjab,130190,Nankana Sahib,5,Maize,8.949071,41799.999,4670.876,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Punjab,130199,Sheikhupura,5,Maize,6.816827,8000.0,1173.566,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Punjab,130181,Khanewal,5,Maize,8.497895,570799.988,67169.57100000001,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Punjab,130185,Lodhran,5,Maize,7.179845,694500.0,96729.103,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Punjab,130188,Multan,5,Maize,7.123093,211399.994,29678.12,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Punjab,130202,Vehari,5,Maize,7.554159,1948800.049,257977.112,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Punjab,130167,Attock,5,Maize,4.753846,30900.0,6500.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Punjab,130171,Chakwal,5,Maize,1.902602,1300.0,683.275,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Punjab,130179,Jhelum,5,Maize,4.797182,22200.001,4627.717,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Punjab,130196,Rawalpindi,5,Maize,1.62963,8800.0,5400.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Punjab,130192,Okara,5,Maize,8.049145,1328000.0,164986.465,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Punjab,130193,Pakpattan,5,Maize,8.541357,1479800.049,173251.16,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Punjab,130197,Sahiwal,5,Maize,8.404654,890200.012,105917.503,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Punjab,130198,Sargodha,5,Maize,8.401648,31600.0,3761.167,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Sindh,130203,Badin,5,Maize,1.114286,39.0,35.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Sindh,130205,Dadu,5,Maize,1.0,5.0,5.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Sindh,130208,Hyderabad,5,Maize,1.333333,16.0,12.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Sindh,130210,Jamshoro,5,Maize,1.012903,157.0,155.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Sindh,130217,Matiari,5,Maize,1.270235,973.0,766.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Sindh,130227,Tando Muhammad Khan,5,Maize,1.04878,86.0,82.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Sindh,130229,Thatta,5,Maize,1.05284,797.0,757.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Sindh,KARACHI_CITY_GAUL2024_AGG,Karachi City,5,Maize,1.035714,116.0,112.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Sindh,130218,Mirpur Khas,5,Maize,0.647059,11.0,17.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Sindh,130228,Tharparkar,5,Maize,0.785714,55.0,70.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Sindh,130230,Umer Kot,5,Maize,0.58125,93.0,160.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Sindh,130207,Ghotki,5,Maize,1.041096,76.0,73.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Sindh,130213,Khairpur,5,Maize,0.890476,187.0,210.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Sindh,130225,Sukkur,5,Maize,1.11236,99.0,89.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Sindh,130220,Sanghar,5,Maize,0.86087,297.0,345.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Sindh,130219,Naushahro Feroze,5,Maize,0.793296,142.0,179.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Balochistan,130096,Awaran,5,Maize,0.977087,597.0,611.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Balochistan,130114,Lasbela,5,Maize,1.027027,38.0,37.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Balochistan,130108,Kech,5,Maize,0.901266,712.0,790.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Balochistan,130111,Killa Abdullah,5,Maize,1.190476,25.0,21.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Balochistan,130100,Dera Bugti,5,Maize,0.962963,78.0,81.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Balochistan,130126,Sibi,5,Maize,0.285714,14.0,49.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Balochistan,130130,Ziarat,5,Maize,1.088235,37.0,34.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Balochistan,130112,Killa Saifullah,5,Maize,1.0,151.0,151.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Balochistan,130125,Sherani,5,Maize,0.475524,68.0,143.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Balochistan,130129,Zhob,5,Maize,1.169231,76.0,65.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Balochistan,130097,Barkhan,5,Maize,0.892116,645.0,723.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Balochistan,130116,Loralai,5,Maize,0.942857,33.0,35.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Balochistan,130118,Musakhel,5,Maize,0.513591,359.0,699.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Balochistan,130109,Kharan,5,Maize,0.930168,333.0,358.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Balochistan,130128,Washuk,5,Maize,0.514286,18.0,35.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home
+2023,spring_autumn,Balochistan,130120,Nushki,5,Maize,0.0,0.0,692.0,Pakistan national agriculture dashboard / Crop Reporting Service,https://na.data.gov.pk/Crops/Home

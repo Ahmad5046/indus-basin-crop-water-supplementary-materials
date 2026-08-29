@@ -1,0 +1,33 @@
+{
+  "analysis_year": 2023,
+  "classification_assets": {
+    "rabi": "projects/ee-muhammandahmad158609/assets/indus_vwf_2023/crop_classification_rabi_2023_30m",
+    "kharif": "projects/ee-muhammandahmad158609/assets/indus_vwf_2023/crop_classification_kharif_2023_30m"
+  },
+  "district_boundary_asset": "projects/ee-muhammandahmad158609/assets/indus_vwf_2023/fao_gaul_2024_pak_adm2_karachi_aggregate",
+  "yield_csv": "E:\\mdpi\\indus_green_blue_water_vwf_20260709\\data\\raw\\user_supplied\\crop_statistics\\crop_yield_statistics_filled_GAUL2024_user_resolved.csv",
+  "district_rows": 580,
+  "province_rows": 25,
+  "crop_summary_rows": 5,
+  "district_table_assets": {
+    "Wheat": "projects/ee-muhammandahmad158609/assets/indus_vwf_2023/district_water_vwf_wheat_2023",
+    "Rice": "projects/ee-muhammandahmad158609/assets/indus_vwf_2023/district_water_vwf_rice_2023",
+    "Cotton": "projects/ee-muhammandahmad158609/assets/indus_vwf_2023/district_water_vwf_cotton_2023",
+    "Sugarcane": "projects/ee-muhammandahmad158609/assets/indus_vwf_2023/district_water_vwf_sugarcane_2023",
+    "Maize": "projects/ee-muhammandahmad158609/assets/indus_vwf_2023/district_water_vwf_maize_2023"
+  },
+  "water_image_assets": {
+    "Wheat": "projects/ee-muhammandahmad158609/assets/indus_vwf_2023/water_vwf_wheat_2023_250m",
+    "Rice": "projects/ee-muhammandahmad158609/assets/indus_vwf_2023/water_vwf_rice_2023_250m",
+    "Cotton": "projects/ee-muhammandahmad158609/assets/indus_vwf_2023/water_vwf_cotton_2023_250m",
+    "Sugarcane": "projects/ee-muhammandahmad158609/assets/indus_vwf_2023/water_vwf_sugarcane_2023_250m",
+    "Maize": "projects/ee-muhammandahmad158609/assets/indus_vwf_2023/water_vwf_maize_2023_250m"
+  },
+  "combined_water_asset": "projects/ee-muhammandahmad158609/assets/indus_vwf_2023/combined_crop_water_2023_250m",
+  "missing_yield_rows": 199,
+  "method": {
+    "green_water": "min(WaPOR AETI, USDA-SCS effective CHIRPS rainfall)",
+    "blue_water": "max(WaPOR AETI - green water, 0)",
+    "vwf": "water volume / mapped production using official district yield"
+  }
+}

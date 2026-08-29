@@ -1,0 +1,8 @@
+* -text
+*.docx binary
+*.gpkg binary
+*.pdf binary
+*.png binary
+*.tif binary
+*.xlsx binary
+*.zip binary

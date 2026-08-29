@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "table_count": 20,
+  "crop_summary_rows": 5,
+  "district_crop_rows": 580,
+  "official_zero_yield_rows": 5,
+  "max_water_volume_balance_error_m3": 1.163852334022522,
+  "max_vwf_balance_error_m3_t": 4.7801563141547376e-05,
+  "negative_water_values": 0,
+  "canal_boundary_caveat": "15 km OSM influence buffers overlap and are not official command areas",
+  "uncertainty_interpretation": "structural product sensitivity, not a statistical confidence interval"
+}

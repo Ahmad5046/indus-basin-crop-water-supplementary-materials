@@ -1,0 +1,21 @@
+{
+  "asset": "projects/ee-muhammandahmad158609/assets/indus_vwf_2023/crop_water_trends_validation_2018_2023",
+  "rows": 30,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "crops": [
+    "Cotton",
+    "Maize",
+    "Rice",
+    "Sugarcane",
+    "Wheat"
+  ],
+  "interpretation": "Hydroclimatic/product trend over fixed 2023 crop extent; not annual crop-map change.",
+  "uncertainty_use": "Primary/comparison pathway spread supplies empirical structural sensitivity bounds."
+}

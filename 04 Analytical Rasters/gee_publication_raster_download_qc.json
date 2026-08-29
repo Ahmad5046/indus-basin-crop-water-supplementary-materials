@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "raster_count": 40,
+  "manifest": "E:\\mdpi\\indus_green_blue_water_vwf_20260709\\data\\gee_exports\\publication_rasters_real_2023\\gee_publication_raster_manifest.csv",
+  "accounting_resolution_note": "Authoritative crop maps are 30 m and water products 250 m; these are basin-scale cartographic downloads.",
+  "all_crs_present": true,
+  "all_nonempty": true
+}

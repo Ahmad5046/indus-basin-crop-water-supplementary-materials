@@ -1,0 +1,42 @@
+year,season,actual_code,actual_crop,predicted_code,predicted_crop,sample_count
+2023,Rabi,1,Wheat,1,Wheat,438
+2023,Rabi,1,Wheat,4,Sugarcane,6
+2023,Rabi,1,Wheat,5,Maize,0
+2023,Rabi,1,Wheat,6,Other cropland,23
+2023,Rabi,4,Sugarcane,1,Wheat,15
+2023,Rabi,4,Sugarcane,4,Sugarcane,97
+2023,Rabi,4,Sugarcane,5,Maize,1
+2023,Rabi,4,Sugarcane,6,Other cropland,12
+2023,Rabi,5,Maize,1,Wheat,7
+2023,Rabi,5,Maize,4,Sugarcane,1
+2023,Rabi,5,Maize,5,Maize,193
+2023,Rabi,5,Maize,6,Other cropland,13
+2023,Rabi,6,Other cropland,1,Wheat,89
+2023,Rabi,6,Other cropland,4,Sugarcane,11
+2023,Rabi,6,Other cropland,5,Maize,9
+2023,Rabi,6,Other cropland,6,Other cropland,365
+2023,Kharif,2,Rice,2,Rice,478
+2023,Kharif,2,Rice,3,Cotton,6
+2023,Kharif,2,Rice,4,Sugarcane,6
+2023,Kharif,2,Rice,5,Maize,15
+2023,Kharif,2,Rice,6,Other cropland,12
+2023,Kharif,3,Cotton,2,Rice,1
+2023,Kharif,3,Cotton,3,Cotton,284
+2023,Kharif,3,Cotton,4,Sugarcane,11
+2023,Kharif,3,Cotton,5,Maize,8
+2023,Kharif,3,Cotton,6,Other cropland,16
+2023,Kharif,4,Sugarcane,2,Rice,8
+2023,Kharif,4,Sugarcane,3,Cotton,6
+2023,Kharif,4,Sugarcane,4,Sugarcane,397
+2023,Kharif,4,Sugarcane,5,Maize,14
+2023,Kharif,4,Sugarcane,6,Other cropland,11
+2023,Kharif,5,Maize,2,Rice,17
+2023,Kharif,5,Maize,3,Cotton,16
+2023,Kharif,5,Maize,4,Sugarcane,23
+2023,Kharif,5,Maize,5,Maize,491
+2023,Kharif,5,Maize,6,Other cropland,40
+2023,Kharif,6,Other cropland,2,Rice,19
+2023,Kharif,6,Other cropland,3,Cotton,27
+2023,Kharif,6,Other cropland,4,Sugarcane,17
+2023,Kharif,6,Other cropland,5,Maize,86
+2023,Kharif,6,Other cropland,6,Other cropland,380

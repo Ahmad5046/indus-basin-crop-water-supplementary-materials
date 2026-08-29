@@ -1,0 +1,3 @@
+season,overall_accuracy,kappa,balanced_accuracy,macro_f1,training_samples,validation_samples,validation_blocks,interpretation
+Rabi,0.85390625,0.7878837827155766,0.846453212975167,0.8547991006922822,5535,1280,,spatial-block holdout; not area-probability sampled
+Kharif,0.8497279196316451,0.8105591948537718,0.8554816596652379,0.852032062897071,9763,2389,,spatial-block holdout; not area-probability sampled

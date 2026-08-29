@@ -1,0 +1,338 @@
+INDUS BASIN GREEN-BLUE WATER AND VIRTUAL WATER FOOTPRINT PROJECT
+STRICT FINAL QUALITY-CONTROL REPORT
+===============================================================================
+Review date: 2026-07-11
+Final project folder:
+E:\mdpi\indus_green_blue_water_vwf_20260709\Indus_Basin_Virtual_Water_Project
+
+STRICT VERDICT: PASS WITH DOCUMENTED LIMITATIONS
+
+The final submission set passes the scientific accounting, projection, unit,
+font, resolution, map-layout, file-integrity, and Microsoft Office opening
+checks. The limitations listed in this report must remain with the project.
+The most important presentation limitation is that the all-district blue-VWF
+chart is too dense for comfortable reading on PowerPoint slide 15, although the
+full-resolution standalone figure is readable when used as a full-page or
+supplementary figure.
+
+-------------------------------------------------------------------------------
+1. CHECKLIST RESULTS
+-------------------------------------------------------------------------------
+
+1. LibreOffice avoided: PASS
+   - No LibreOffice or soffice process was used or found during the final audit.
+   - Project generation scripts explicitly use Microsoft Office COM and do not
+     invoke LibreOffice.
+   - The final Office QC record states libreoffice_used=false.
+
+2. Microsoft Office 365-compatible methods: PASS
+   - Word, Excel, and PowerPoint were created and checked through Windows COM.
+   - Microsoft Word version opened: 16.0.
+   - Microsoft Excel version opened: 16.0.
+   - Microsoft PowerPoint version opened: 16.0.
+
+3. Times New Roman fonts: PASS FOR THE FINAL SUBMISSION SET
+   - All 55 editable publication PDFs contain only embedded
+     TimesNewRomanPSMT and TimesNewRomanPS-BoldMT fonts.
+   - All 15 editable graph SVG files declare Times New Roman.
+   - Map and graph generator text-object checks report zero font failures.
+   - Word, Excel, and PowerPoint COM/OOXML checks report zero font failures.
+   - Word body text, headings, captions, tables, headers, and footers use Times
+     New Roman.
+   - Legacy preliminary artifacts outside the final submission folder are not
+     part of this confirmation and must not be submitted as final products.
+
+4. Figure and map resolution: PASS
+   - Publication PNG files checked: 55.
+   - Publication TIFF files checked: 55.
+   - Minimum recorded resolution: 1199.9976 dpi in both axes.
+   - Files below 1199 dpi: 0.
+   - Minimum raster figure width: 7680 pixels.
+   - Minimum raster figure height: 4920 pixels.
+   - Editable PDF is supplied for every map and graph; editable SVG is supplied
+     for every graph.
+   - High output dpi does not increase the native scientific resolution of a
+     250 m or 500 m Earth Engine raster.
+
+5. Overlap of map and figure objects: PASS
+   - Publication maps checked: 40; map overlap QC: PASS.
+   - Publication graphs checked: 15; graph overlap QC: PASS.
+   - No final map has a title, legend, north arrow, scale bar, province label,
+     river label, crop label, axis, or color bar outside its assigned layout.
+   - PowerPoint unintended-overlap candidates: 0.
+   - Word figures are inline, not floating; floating shapes: 0.
+
+6. Cropped objects or page-edge overflow: PASS
+   - Map text-inside-canvas check: true for all 40 maps.
+   - Graph text-inside-canvas check: true for all 15 graphs.
+   - PowerPoint objects outside slide: 0.
+   - Word page montage and selected full-page checks found no cropped figure,
+     table, caption, heading, header, or footer.
+
+7. Readability at journal scale: PASS WITH LIMITATION
+   - The 40 standalone maps are readable when placed at full journal-page or
+     normal full-column width.
+   - Multi-panel seasonal maps should not be reduced below full-column width.
+   - Graph 05 contains 116 districts. It is appropriate as a full-page or
+     supplementary figure, not as a single-column figure.
+   - The district chart is too small for comfortable reading on PowerPoint
+     slide 15 because it shares the slide with the province chart.
+
+8. Dataset naming and metadata: PASS
+   - Table_01 contains 30 dataset records.
+   - Missing dataset, source, resolution, period, purpose, or availability
+     fields in Table_01: 0.
+   - The 40-raster manifest includes filename, source asset, band, units,
+     requested scale, bytes, checksum, CRS, dimensions, pixel size, and type.
+   - All final rasters use EPSG:32642.
+   - Raster scale distribution: 2 products at 250 m and 38 cartographic
+     products at 500 m. Authoritative crop classification assets remain 30 m.
+
+9. Equations and unit consistency: PASS
+   - WaPOR dekadal AETI is multiplied by the catalog scale factor 0.1 and the
+     actual number of days represented by each dekad.
+   - Monthly effective rainfall uses the documented USDA-SCS relationship:
+       Pe = P(125 - 0.2P) / 125, for P <= 250 mm
+       Pe = 125 + 0.1P,       for P > 250 mm
+   - Green water depth = min(actual ET, effective rainfall).
+   - Blue water depth = max(actual ET - green water, 0).
+   - Total crop water use = green water + blue water.
+   - Volume (m3) = depth (mm) x mapped area (m2) / 1000.
+   - Equivalently, 1 mm over 1 ha = 10 m3.
+   - Mapped production (t) = mapped crop area (ha) x official yield (t/ha).
+   - VWF (m3/t) = water volume (m3) / mapped production (t).
+   - Water productivity (kg/m3) = mapped production (t) x 1000 / water (m3).
+
+10. Water-accounting numerical checks: PASS
+   - District-crop records checked: 580.
+   - Negative green, blue, or total water values: 0.
+   - Total district-crop water volume: approximately 80.0135 billion m3.
+   - Maximum absolute green + blue - total residual: 1.1639 m3.
+   - Maximum relative residual against the project total: about 1.46e-9 percent.
+   - Maximum green VWF + blue VWF - total VWF residual: 4.78e-5 m3/t.
+   - These residuals are floating-point precision effects, not accounting
+     failures.
+
+11. Missing-data placeholders: PASS
+   - Missing or non-computable rows are marked
+     DATA_REQUIRED_OR_NO_MAPPED_CROP and VWF fields are blank.
+   - Calculated rows are marked CALCULATED_OFFICIAL_YIELD.
+   - Five official zero-yield district-crop records are retained, not imputed.
+   - Eight all-crop district ranking records are displayed as NA.
+   - Official canal-command polygons are marked unavailable.
+   - Map 38 and Table 18 are explicitly named PROXY and state that 15 km OSM
+     canal-influence buffers are not official command areas.
+
+12. Original-file protection: PASS
+   - Original and superseded outputs were preserved in QC_Archives and in the
+     Final_Publication_Figures archive folders.
+   - The pre-strict QC report was copied to
+     QC_Archives\pre_strict_final_qc_20260711 before this report was written.
+   - Source downloads were not deleted or replaced.
+
+13. Script reproducibility and comments: PASS WITH MAINTAINABILITY NOTE
+   - Python scripts syntax-checked: 28; failures: 0.
+   - GEE JavaScript files syntax-checked: 14; failures: 0.
+   - The five core GEE modules and principal Python processing scripts contain
+     configuration blocks, comments, metadata, units, and deterministic paths.
+   - Several legacy helper/preliminary Python scripts have sparse inline
+     comments. They are retained for provenance but should not be treated as
+     the preferred workflow. Use the scripts copied to 02_GEE_Scripts and the
+     current real-data scripts in 04_Python_Postprocessing.
+
+14. Final output organization: PASS
+   - The submission package is stored in the clearly named folder
+     Indus_Basin_Virtual_Water_Project.
+   - Maps, graphs, tables, Office files, GEE scripts, Python scripts, exported
+     data, and QC evidence are separated into numbered subfolders.
+
+15. Microsoft Office opening test: PASS
+   - Word opened read-only in Microsoft Word 16.0: 65 pages, 55 inline figures,
+     5 tables, and 1 automatic table of contents.
+   - Excel opened read-only in Microsoft Excel 16.0: 18 sheets in the intended
+     order, beginning with Datasets.
+   - PowerPoint opened read-only in Microsoft PowerPoint 16.0: 19 slides,
+     16:9 page size, no object outside the slide.
+   - Detailed evidence is saved as
+     10_Quality_Control\strict_office_open_test_20260711.json.
+
+-------------------------------------------------------------------------------
+2. COMPLETED TASKS
+-------------------------------------------------------------------------------
+
+- Prepared Pakistan Indus Basin, province, district, hydrography, canal, soil,
+  terrain, and contextual irrigation datasets.
+- Built cropland masks and Sentinel-2/Landsat seasonal predictor composites.
+- Calculated NDVI, EVI, NDWI, LSWI, and SAVI.
+- Defined wheat, rice, cotton, sugarcane, and maize crop calendars.
+- Trained Random Forest crop classifiers and completed spatially independent
+  validation.
+- Extracted WaPOR actual ET and CHIRPS rainfall.
+- Calculated effective rainfall and green, blue, and total crop water use.
+- Joined official district crop yields without inventing missing yields.
+- Calculated green, blue, and total VWF and water productivity.
+- Produced district, province, crop, uncertainty, hotspot, and trend tables.
+- Produced 40 maps, 15 graphs, 20 final CSV tables, and 40 publication raster
+  exports.
+- Produced and opened the Word, Excel, and PowerPoint files through Microsoft
+  Office 16.0 COM-compatible methods.
+- Created SHA-256 file inventory and visual QC montages.
+
+-------------------------------------------------------------------------------
+3. CREATED FILES AND PRIMARY DELIVERABLES
+-------------------------------------------------------------------------------
+
+GEE scripts:
+- 02_GEE_Scripts\01_boundary_and_masks.js
+- 02_GEE_Scripts\02_crop_classification.js
+- 02_GEE_Scripts\03_ET_rainfall_green_blue_water.js
+- 02_GEE_Scripts\04_virtual_water_footprint_exports.js
+- 02_GEE_Scripts\05_validation_and_accuracy.js
+
+Publication outputs:
+- 05_Final_Maps\Map_01...Map_40 in PNG, TIFF, and editable PDF formats
+- 06_Final_Graphs\Graph_01...Graph_15 in PNG, TIFF, PDF, and SVG formats
+- 07_Final_Tables\Table_01...Table_20 CSV files
+- 03_Exported_GEE_Data\raster containing 40 real Earth Engine GeoTIFFs
+
+Microsoft Office outputs:
+- 08_Word_Report\Indus_Basin_Green_Blue_Virtual_Water_Methodology_Report_PageFit_Revision.docx
+- 07_Final_Tables\Indus_Basin_Water_Footprint_Tables.xlsx
+- 09_PowerPoint\Indus_Basin_Virtual_Water_Presentation.pptx
+
+QC evidence:
+- 10_Quality_Control\office365_final_output_qc.json
+- 10_Quality_Control\strict_office_open_test_20260711.json
+- 10_Quality_Control\publication_figures\publication_maps_qc_summary.json
+- 10_Quality_Control\publication_figures\publication_graphs_qc_summary.json
+- 10_Quality_Control\Strict_QC_Visuals\All_40_Maps_Montage.png
+- 10_Quality_Control\Strict_QC_Visuals\All_15_Graphs_Montage.png
+- 10_Quality_Control\Strict_QC_Visuals\All_19_PowerPoint_Slides_Montage.png
+- 10_Quality_Control\Strict_QC_Visuals\All_65_Word_Pages_Montage.png
+- FINAL_FILE_INVENTORY_SHA256.csv
+
+-------------------------------------------------------------------------------
+4. DATASET SOURCES USED
+-------------------------------------------------------------------------------
+
+- FAO GAUL 2024: national, province, and district boundaries.
+- WWF HydroBASINS and HydroRIVERS: basin boundary and river context.
+- Sentinel-2 SR Harmonized: crop phenology, indices, and classification.
+- Landsat 8/9 Collection 2 Level 2: complementary surface reflectance.
+- ESA WorldCover 2021 and Dynamic World 2023: cropland evidence.
+- FAO WaPOR v3 Level-1 AETI: crop-season actual evapotranspiration.
+- CHIRPS Daily: crop-season rainfall and effective rainfall input.
+- MODIS MOD16A2GF and ERA5-Land: independent ET/rainfall comparisons.
+- NASA SRTMGL1 v003: elevation and terrain.
+- ISRIC SoilGrids250m v2 and OpenLandMap: soil/water-capacity context.
+- FAO crop calendar, MIRCA-OS v2, and Pakistan context: crop seasons.
+- ADB/MNFSR/CRS Pakistan ground survey: crop training and validation.
+- Pakistan national agriculture dashboard/Crop Reporting Service: official
+  2022-23 district crop area, production, and yield.
+- FAOSTAT QCL December 2025 release: national statistics comparison.
+- OpenStreetMap/Geofabrik 2026-07-09: canals, rivers, and barriers.
+- FAO AQUASTAT GMIA v5: contextual area equipped for irrigation.
+- WAPDA and PBS reports/microdata: contextual diversion, tube-well, and
+  groundwater information where publicly obtainable.
+
+-------------------------------------------------------------------------------
+5. ASSUMPTIONS MADE
+-------------------------------------------------------------------------------
+
+- Study area is the Pakistan intersection of the selected Indus basin boundary.
+- Karachi is represented as one complete city aggregate.
+- Torghar and Tor Ghar are treated as the same district.
+- Analysis year is 2023, with official crop statistics aligned to 2022-23.
+- Crop-area totals are crop-season hectares and may exceed unique physical
+  cropland where double cropping occurs.
+- Mapped production equals mapped area multiplied by official district yield.
+- Green water is the AETI portion met by USDA-SCS effective rainfall.
+- Blue water is the residual AETI demand and is not a direct measurement of
+  canal diversion or groundwater pumping.
+- Dominant-crop VWF maps use the classified dominant crop and district yield.
+- Hotspot and sustainability scores use basin-relative quartiles.
+- The 10,000-draw uncertainty analysis is structural product sensitivity, not
+  a statistical confidence interval.
+- OSM 15 km canal-influence buffers provide context only.
+
+-------------------------------------------------------------------------------
+6. MISSING INPUTS
+-------------------------------------------------------------------------------
+
+- Complete official canal-command GIS polygons for the study area.
+- Command-wise canal diversion time series matched to crop seasons.
+- District/crop-specific groundwater abstraction volumes.
+- Farm-scale irrigation application and conveyance-efficiency observations.
+- Positive official yields for five retained zero-yield records.
+- Final values for district-crop combinations with no defensible yield or no
+  mapped crop area; 201 of 580 combinations are marked unavailable/no crop.
+- Annual crop maps for every trend year; trends use fixed 2023 crop extent.
+
+-------------------------------------------------------------------------------
+7. ERRORS OR LIMITATIONS
+-------------------------------------------------------------------------------
+
+- No calculation error was detected in the final water or VWF balances.
+- Graph 05 is information-dense. District labels require full-page or digital
+  zoom; it is not suitable for a narrow single-column journal placement.
+- PowerPoint slide 15 has no overlap, but its district chart is too small for
+  comfortable normal slideshow reading.
+- The original base-name Word report was open during the page-fit revision and
+  was not overwritten. The current report is the file ending
+  PageFit_Revision.docx. Keeping both files can cause submission ambiguity.
+- The Word dataset table wraps long metadata into narrow columns. Text is not
+  cropped, but the table is dense.
+- The USDA-SCS effective-rainfall equation is empirical and is not locally
+  calibrated for every district or soil/management condition.
+- WaPOR, CHIRPS, MODIS, and ERA5-Land have product-specific uncertainty.
+- Crop-class errors propagate into crop area, ET, production, VWF, and
+  productivity.
+- GMIA v5 is circa 2005 and is contextual rather than a current irrigation map.
+- OSM infrastructure completeness varies spatially.
+- Cartographic 500 m downloads are not substitutes for the authoritative 30 m
+  crop maps or 250 m water-accounting assets.
+- Legacy preliminary outputs and older helper scripts remain outside the final
+  submission folder for provenance. They must not be mixed with final results.
+
+-------------------------------------------------------------------------------
+8. RECOMMENDED NEXT STEPS
+-------------------------------------------------------------------------------
+
+1. Close the older open Word report, archive it, and designate the page-fit
+   revision as the single canonical submission file.
+2. Give the 116-district ranking its own PowerPoint slide, or split it into
+   province-specific slides.
+3. Submit Graph 05 as a full-page/supplementary figure, or publish separate
+   province panels for improved district-label readability.
+4. Obtain official canal-command polygons and seasonal diversion records from
+   the relevant irrigation departments, IRSA, or WAPDA.
+5. Obtain metered or defensibly modelled groundwater abstraction volumes.
+6. Calibrate effective rainfall and irrigation partitioning with local field,
+   soil-moisture, and water-delivery observations.
+7. Add independent crop-area and yield validation for each province and crop.
+8. Produce annually varying crop classifications before interpreting the
+   2018-2023 diagnostics as land-use trends.
+9. Retain this report, the source manifests, and the SHA-256 inventory with any
+   submitted or archived version of the project.
+
+-------------------------------------------------------------------------------
+9. REQUIRED FINAL CONFIRMATIONS
+-------------------------------------------------------------------------------
+
+CONFIRMATION - NO MAP OBJECT OVERLAP:
+Confirmed for all 40 final maps. Automated bounds/region checks and visual
+montage review found no overlapping or cropped map titles, legends, north
+arrows, scale bars, province names, river names, crop labels, axes, or color
+bars.
+
+CONFIRMATION - TIMES NEW ROMAN:
+Confirmed for the final submission maps, graphs, Word report, Excel workbook,
+and PowerPoint presentation. Editable-PDF font inspection found only embedded
+Times New Roman regular and bold fonts; Office QC found zero font failures.
+
+CONFIRMATION - LIBREOFFICE:
+Confirmed that LibreOffice was not used to generate, convert, open, or validate
+the final Word, Excel, or PowerPoint outputs. Microsoft Office 16.0 COM was
+used, and all three final Office files opened successfully in read-only tests.
+
+END OF STRICT FINAL QUALITY-CONTROL REPORT

@@ -1,0 +1,31 @@
+requirement_no,dataset,source,resolution,period,purpose,availability_status
+1,Pakistan boundary,FAO GAUL 2015/2024,vector,current GAUL 2024,Base map and clipping,AVAILABLE
+2,Province boundaries,FAO GAUL 2024,vector,2024,Province comparison,AVAILABLE
+3,District boundaries,FAO GAUL 2024 with Karachi aggregate,vector,2024,District accounting,AVAILABLE
+4,Indus Basin boundary,WWF HydroBASINS level 5,vector,static,Study boundary,AVAILABLE
+5,River network,HydroRIVERS v1 and OSM 2026-07-09,15 arc-sec derivation / vector,v1/current OSM,Hydrographic context and labels,AVAILABLE
+6,Canal command boundaries,No complete public official GIS layer located,not available,n/a,Command-area analysis,PROXY_ONLY: 15 km OSM canal influence; not official
+7,Canal network and barriers,OpenStreetMap via Geofabrik,vector,2026-07-09,Irrigation-system context,"AVAILABLE: 10,589 canal segments; 1,324 barriers"
+8,Cropland mask,ESA WorldCover 2021 + Dynamic World + Sentinel-2 phenology,100 m display; native inputs 10 m,2021/2023,Agricultural mask,AVAILABLE
+9,Sentinel-2 surface reflectance,COPERNICUS/S2_SR_HARMONIZED,10-20 m,2022-11 to 2023-12,Crop mapping and indices,AVAILABLE_IN_GEE
+10,Landsat surface reflectance,Landsat 8/9 Collection 2 Level 2,30 m,2022-11 to 2023-12,Complementary crop predictors,AVAILABLE_IN_GEE
+11,Harmonized Landsat-Sentinel,NASA HLS v2,30 m,available,Optional consistency analysis,AVAILABLE_NOT_USED_IN_FINAL_RF
+12,NDVI/EVI/NDWI/LSWI/SAVI,Derived from cloud-masked Sentinel-2/Landsat,30 m analysis; 250/500 m cartography,2022-23,Phenology and figures,DERIVED
+13,Actual ET and interception,FAO WaPOR v3 L1_AETI_D,"248.2 m, dekadal",2023 crop seasons,Total crop water use,AVAILABLE
+14,Reference ET,FAO WaPOR v3 L1_RET_E,"248.2 m, daily",2023,Reference comparison,AVAILABLE
+15,Transpiration/evaporation/interception,FAO WaPOR v3 L1_T_D/L1_E_D/L1_I_D,"248.2 m, dekadal",2023,ET component context,AVAILABLE
+16,Rainfall,CHIRPS Daily,0.05 degrees,1981-present; 2023 analysis,Green-water input,AVAILABLE
+17,Effective rainfall,USDA-SCS monthly calculation from CHIRPS,derived,crop-specific 2022-23/2023,Green/blue partition,DERIVED
+18,Elevation,SRTMGL1 v003,30 m,static,Terrain context,AVAILABLE
+19,Soil texture and water capacity,OpenLandMap + ISRIC SoilGrids250m v2,250 m,static,Root-zone context,AVAILABLE; AWC 0-100 cm derived
+20,Crop calendar,FAO Pakistan calendar + MIRCA-OS v2 + PMD context,tabular,crop-specific,Season definitions,AVAILABLE
+21,Crop area,Pakistan national crop dashboard / Crop Reporting Service,district,2022-23,Area validation,AVAILABLE
+22,Crop production,Pakistan national crop dashboard / Crop Reporting Service,district,2022-23,Virtual-water totals,AVAILABLE
+23,Crop yield,Pakistan national crop dashboard / Crop Reporting Service,district,2022-23,VWF and productivity,AVAILABLE; five official zero-yield rows flagged
+24,District crop statistics,Pakistan national crop dashboard resolved to GAUL 2024,430 district-crop rows,2022-23,District VWF,AVAILABLE
+25,FAOSTAT crop data,FAOSTAT QCL December 2025 release,national annual,1961-2024,Independent national validation,AVAILABLE
+26,Crop training samples,"ADB/MNFSR/CRS ground survey, Zenodo 11047562",field points,2022-23,Random Forest training,"AVAILABLE: 136,822 source rows"
+27,Crop validation samples,Spatially disjoint subset of ADB survey,0.05-degree blocks,2022-23,Accuracy assessment,AVAILABLE
+28,Canal diversion/supply,WAPDA Annual Report 2022-23,national/contextual,2022-23,Blue-water plausibility,CONTEXT_ONLY: no public command-wise time series
+29,Groundwater abstraction/tubewells,PBS Agriculture Census 2024-25 + WAPDA,district/contextual,2024-25,Blue-water interpretation,AVAILABLE_AS_PROXY; not abstraction volumes
+30,Groundwater levels,PBS Mouza Census 2020 microdata,"51,888 Mouzas; district summaries",2020,Sustainability context,"AVAILABLE: reported depth in feet, converted to metres"

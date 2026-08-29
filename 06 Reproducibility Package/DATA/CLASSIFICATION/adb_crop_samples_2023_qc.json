@@ -1,0 +1,23 @@
+{
+  "source_file": "E:\\mdpi\\indus_green_blue_water_vwf_20260709\\data\\raw\\downloaded_sources\\crop_training_references\\ADB_Pakistan_Ground_Truth_2022_2023\\Pakistan_Agricultural_Ground_Truthing_Survey_Data_2022-2023.xlsx",
+  "source_rows": 136822,
+  "clean_rows": 110365,
+  "balanced_rows": 45883,
+  "spatial_block_degrees": 0.05,
+  "random_seed": 20230709,
+  "training_blocks": 3971,
+  "validation_blocks": 1060,
+  "block_overlap_count": 0,
+  "class_codes": {
+    "Wheat": 1,
+    "Rice": 2,
+    "Cotton": 3,
+    "Sugarcane": 4,
+    "Maize": 5,
+    "Other cropland": 6
+  },
+  "license": "CC BY 4.0",
+  "source_doi": "https://doi.org/10.5281/zenodo.11047562",
+  "md5_expected": "fcf7253ad8ac8dced7c091cd14c8a124",
+  "status": "PASS"
+}

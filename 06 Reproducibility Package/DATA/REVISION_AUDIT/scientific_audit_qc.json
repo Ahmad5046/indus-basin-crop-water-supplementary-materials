@@ -1,0 +1,38 @@
+{
+  "status": "PASS",
+  "crop_rows": 5,
+  "district_crop_rows": 580,
+  "computable_district_crop_rows": 379,
+  "districts_total": 116,
+  "districts_with_any_computable_crop": 108,
+  "max_crop_water_balance_residual_m3": 3.825145721435547,
+  "max_crop_vwf_balance_residual_m3_t": 2.2209042072063312e-07,
+  "max_crop_production_identity_residual_t": 0.0,
+  "max_crop_wp_identity_residual_kg_m3": 8.881784197001252e-16,
+  "robust_priority_districts_all_four_thresholds": [
+    "Buner",
+    "Islamabad",
+    "Khyber",
+    "Orakzai",
+    "Abbottabad",
+    "South Waziristan",
+    "Karak",
+    "Batagram",
+    "Shangla",
+    "Tor Ghar",
+    "Pishin"
+  ],
+  "robust_priority_districts_area_ge_25000_ha": [
+    "Rawalpindi",
+    "Haripur",
+    "Buner",
+    "Bajaur",
+    "Mansehra",
+    "Swat",
+    "Islamabad",
+    "Kurram"
+  ],
+  "structural_sensitivity_method": "two observed product-chain endpoints; no artificial Monte Carlo interpolation",
+  "formal_area_adjustment_performed": false,
+  "formal_area_adjustment_reason": "validation sample is spatially blocked but not an area-probability sample"
+}

@@ -1,0 +1,21 @@
+table_number,filename,description,rows,columns
+1,Table_01_Dataset_Summary.csv,"Dataset sources, resolution, period, use, and availability",30,7
+2,Table_02_Crop_Calendar.csv,Crop-specific analysis periods and seasonal masks,5,7
+3,Table_03_Crop_Classification_Accuracy.csv,"Producer/user/F1, OA, kappa, and validation counts",9,12
+4,Table_04_Crop_Area_Remote_Sensing_vs_Official.csv,Mapped versus official harvested area within study districts,5,7
+5,Table_05_Crop_Wise_ET.csv,Crop-season WaPOR actual ET / total crop water use,5,6
+6,Table_06_Crop_Wise_Rainfall.csv,CHIRPS rainfall and USDA-SCS effective rainfall,5,7
+7,Table_07_District_Crop_Green_Water.csv,District and crop green water use,580,10
+8,Table_08_District_Crop_Blue_Water.csv,District and crop blue water use,580,10
+9,Table_09_District_Crop_Total_Water.csv,District and crop total water use,580,9
+10,Table_10_Official_District_Crop_Yield.csv,"Official district crop yield, production, and area",430,12
+11,Table_11_District_Crop_Green_VWF.csv,Green virtual water footprint,580,11
+12,Table_12_District_Crop_Blue_VWF.csv,Blue virtual water footprint,580,11
+13,Table_13_District_Crop_Total_VWF.csv,Total virtual water footprint,580,11
+14,Table_14_District_Crop_Water_Productivity.csv,Total and blue water productivity,580,12
+15,Table_15_District_Crop_Blue_Dependency.csv,Green-water share and blue-water dependency,580,9
+16,Table_16_District_Hotspot_Ranking.csv,Cross-crop district blue-VWF ranking and relative hotspot score,116,27
+17,Table_17_Province_Comparison.csv,"Cross-crop province green/blue water, VWF, and productivity",5,19
+18,Table_18_Canal_Influence_Proxy_Comparison.csv,OSM 15 km canal-influence proxy blue-water statistics; not official command areas,100,9
+19,Table_19_Validation_Comparisons.csv,FAOSTAT crop statistics and independent ET/rainfall product comparisons,5,19
+20,Table_20_Uncertainty_Structural_Sensitivity.csv,Product-pathway structural sensitivity summaries,40,10
