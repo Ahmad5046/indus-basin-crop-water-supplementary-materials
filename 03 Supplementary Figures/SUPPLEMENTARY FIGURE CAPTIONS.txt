@@ -24,7 +24,7 @@ Figure S11. Fixed-2023-crop-extent residual-blue dependency context for 2018-202
 
 Figure S12. Sensitivity of district hotspot counts to alternative upper- and lower-quantile screening thresholds.
 
-Figure S13. Structural range in crop total virtual water footprint across the evaluated hydroclimatic product-chain endpoints.
+Figure S13. Direct two-endpoint structural sensitivity of crop total virtual water footprint. Circles show the primary WaPOR-CHIRPS estimates, diamonds show the MODIS-ERA5-Land comparison estimates, and connecting lines show the difference between the two evaluated product chains. The endpoints are not confidence limits, and no interpolation or probability distribution was used.
 
 Figure S14. Relationship between matched crop yield and crop-season consumptive-water use for computable records.
 

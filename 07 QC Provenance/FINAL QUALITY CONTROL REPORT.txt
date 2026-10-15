@@ -251,8 +251,9 @@ QC evidence:
   canal diversion or groundwater pumping.
 - Dominant-crop VWF maps use the classified dominant crop and district yield.
 - Hotspot and sustainability scores use basin-relative quartiles.
-- The 10,000-draw uncertainty analysis is structural product sensitivity, not
-  a statistical confidence interval.
+- Product-chain sensitivity is reported as a direct comparison of the
+  WaPOR-CHIRPS and MODIS-ERA5-Land endpoints; no interpolation, probability
+  distribution, or statistical confidence interval is used.
 - OSM 15 km canal-influence buffers provide context only.
 
 -------------------------------------------------------------------------------
