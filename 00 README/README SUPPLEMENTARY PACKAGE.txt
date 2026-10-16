@@ -1,10 +1,10 @@
 INDUS BASIN PAPER: SUPPLEMENTARY MATERIALS PACKAGE
 
 Paper title
-Crop-water priorities depend on the accounting metric: Remote sensing evidence from Pakistan's Indus Basin
+Metric-dependent crop water-management priorities in Pakistan's Indus Basin: Remote-sensing evidence for irrigation screening
 
 Package date
-2026-08-29
+2026-10-17
 
 Contents
 01_Supplementary_Document: Detailed supplementary methods, validation diagnostics, scenario tests, hotspot sensitivity, yield coverage, and numerical QC in Microsoft Word and PDF formats.
